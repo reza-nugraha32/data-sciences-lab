@@ -1,0 +1,12 @@
+kota_administrasi,kecamatan,kelurahan,rw,jumlah_rw,jumlah_rt,jumlah_kk,jumlah_jiwa,ketinggian_air,tanggal_kejadian,lama_genangan,jumlah_meninggal,jumlah_hilang,jumlah_luka_berat,jumlah_luka_ringan,jumlah_pengungsi,jumlah_tempat_pengungsian,nilai_kerugian
+Jakarta Selatan,Pancoran,Rawajati,"001, 003, 006, 007",4,10,0,0,20 - 150 ,"14, 16, 25,26",4,0,0,0,0,0,,0
+Jakarta Selatan,Tebet,Kebon Baru,"001, 010",2,2,0,0,20 - 40,"14, 16, 25",3,0,0,0,0,0,0,0
+Jakarta Selatan,Tebet,Bukit Duri,"010, 011, 012",3,16,1382,5240,20 - 150,"14, 16, 17, 25         ",4,0,0,0,0,44,,0
+Jakarta Selatan,Tebet,Manggarai,"001, 004",2,3,0,0,20 - 90,25,1,0,0,0,0,0,,0
+Jakarta Selatan,Pasar Minggu,Pejaten Timur,"005, 006, 008",3,3,0,0,30 - 50,"16, 25                      ",2,0,0,0,0,0,,0
+Jakarta Selatan,Kebayoran Lama,Pondok Pinang,5,1,4,0,0,50 - 60 ,"25, 26                      ",2,0,0,0,0,0,,0
+Jakarta Timur,Jatinegara,Kampung Melayu,"001, 002, 003, 004, 005, 007",6,29,0,0,20 - 150,"14, 16, 17, 25          ",4,0,0,0,0,315,0,0
+Jakarta Timur,Jatinegara,Bidara Cina,"006, 007, 011",3,12,391,1220, 10 - 80,"14, 16, 17, 25          ",4,0,0,0,0,175,0,0
+Jakarta Timur,Kramat Jati,Cawang,"001, 002, 003, 005, 008, 012",6,29,1846,6004,20 - 100,"14, 17, 25                ",3,0,0,0,0,0,0,0
+Jakarta Timur,Kramat Jati,Cililitan,"005, 006, 007, 016",4,10,229,716,60 - 300,"16, 25                      ",2,0,0,0,0,0,,0
+Jakarta Timur,Pasar Rebo,Gedong,"003, 011",2,2,10,15,50 - 80,16,1,0,0,0,0,0,,0

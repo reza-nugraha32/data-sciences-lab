@@ -1,0 +1,37 @@
+kota_administrasi,kecamatan,kelurahan,rw,jumlah_rw,jumlah_rt,jumlah_kk,jumlah_jiwa,ketinggian_air,tanggal_kejadian,lama_genangan,jumlah_meninggal,jumlah_hilang,jumlah_luka_berat,jumlah_luka_ringan,jumlah_pengungsi,jumlah_tempat_pengungsian,nilai_kerugian
+Jakarta Barat,Cengkareng,Cengkareng Barat,"007, 008, 010, 011, 014",5,0,0,0,20 - 30,"23, 24",2,0,0,0,0,0,0,0
+Jakarta Barat,Cengkareng,Duri Kosambi,"002, 004, 006, 014",4,10,2255,1442,30 - 50,"23, 24",2,0,0,0,0,0,0,0
+Jakarta Barat,Cengkareng,Kapuk,"001, 002, 005, 007",4,0,1468,5538,20 - 40,"23, 24",2,0,0,0,0,0,0,0
+Jakarta Barat,Cengkareng,Kedaung Kali Angke,"001, 002, 003 ,004, 005, 006, 008",7,26,0,0,30 - 70,"23, 24",2,0,0,0,0,0,0,0
+Jakarta Barat,Cengkareng,Rawa Buaya,"001, 002, 005, 008",4,0,0,0,40 - 100,"23, 24",2,0,0,0,0,0,0,0
+Jakarta Barat,Kalideres,Tegal Alur,"001, 002, 003, 004, 008, 011, 012",7,0,0,0,20 - 50,"23, 24",2,0,0,0,0,0,0,0
+Jakarta Barat,Kebon Jeruk,Duri Kepa,2,1,0,0,0, 10 - 20,"23, 24",2,0,0,0,0,0,0,0
+Jakarta Barat,Kebon Jeruk,Kedoya Utara,2,1,0,0,0,30 - 60,"23, 24",2,0,0,0,0,0,0,0
+Jakarta Barat,Kembangan,Kembangan Utara,"006, 007, 010",3,3,0,0, 10 - 20,"23, 24",2,0,0,0,0,0,0,0
+Jakarta Barat,Palmerah,Kota Bambu Utara,3,1,0,0,0,15 - 20,"23, 24",2,0,0,0,0,0,0,0
+Jakarta Pusat,Cempaka Putih,Cempaka Putih Timur,7,1,1,0,0,30 - 40,"23, 24",2,0,0,0,0,0,0,0
+Jakarta Selatan,Tebet,Bukit Duri,"009, 010, 011, 012",4,6,0,0,30 - 105,"22, 23",2,0,0,0,0,0,0,0
+Jakarta Timur,Jatinegara,Bidara Cina,7,1,3,192,690, 10 - 50,22,1,0,0,0,0,0,0,0
+Jakarta Timur,Jatinegara,Kampung Melayu,"001, 002, 003, 004, 005, 007, 008",7,0,1508,3427,20 - 150,"22, 23, 24",3,0,0,0,0,0,0,0
+Jakarta Timur,Kramat Jati,Cawang,"001, 002, 003, 005",4,19,387,900,15 - 30,22,1,0,0,0,0,0,0,0
+Jakarta Utara,Cilincing,Cilincing,4,1,0,0,0,0,"23, 24",2,0,0,0,0,0,0,0
+Jakarta Utara,Cilincing,Kali Baru,"008, 012",2,0,0,0,0 - 50,"23, 24",2,0,0,0,0,0,0,0
+Jakarta Utara,Cilincing,Rorotan,"001, 002, 003, 004, 005, 007, 012",7,24,195,508,20 - 60,"23, 24",2,0,0,0,0,513,0,0
+Jakarta Utara,Cilincing,Semper Barat,"001, 002, 003, 004, 005, 006, 007, 008, 009, 010, 011, 012, 014, 015, 016",15,0,0,88, 10 - 40,"23, 24, 25",3,0,0,0,0,106,3,0
+Jakarta Utara,Cilincing,Semper Timur,"002, 004, 005, 009",4,0,0,0, 10 - 15,"23, 24",2,0,0,0,0,80,0,0
+Jakarta Utara,Cilincing,Sukapura,"001, 002, 003, 004, 005, 006, 007, 008, 009, 010",10,31,90,480,80 - 150,"23, 24",2,0,0,0,0,200,2,0
+Jakarta Utara,Kelapa Gading,Kelapa Gading Timur,"001, 002, 003, 004, 005, 006, 007, 008, 009, 010, 011, 012, 013,  014, 015, 016, 017, 018, 019, 020, 021",21,0,0,0,40 - 50,"23, 24",2,0,0,0,0,0,0,0
+Jakarta Utara,Kelapa Gading,Pegangsaan Dua,"003, 004, 007, 008, 009, 011, 016, 017 ",8,3,0,0,80 - 90,"23, 24",2,0,0,0,0,525,0,0
+Jakarta Utara,Koja,Koja,"001, 002, 003, 004, 005, 006, 007, 008, 009, 010, 011, 012, 013",13,0,0,0,0 - 20,"23, 24",2,0,0,0,0,80,9,0
+Jakarta Utara,Koja,Lagoa,"001, 002, 003, 004, 005, 006, 007",7,0,0,0,30 - 70,"23, 24, 25",3,0,0,0,0,300,9,0
+Jakarta Utara,Koja,Rawabadak Selatan,6,1,0,0,0,0 - 60,"23, 24",2,0,0,0,0,0,9,0
+Jakarta Utara,Koja,Rawabadak Utara,"001, 002, 003, 004, 005, 006, 007, 008, 009, 010, 011, 012, 013,  014, 015",15,0,0,0,15 - 30,"23, 24",3,0,0,0,0,0,9,0
+Jakarta Utara,Koja,Tugu Selatan,"001, 002, 003, 004, 005, 006, 007",7,0,0,0,80 - 90,"23, 24, 25",3,0,0,0,0,1131,9,0
+Jakarta Utara,Koja,Tugu Utara,"003, 004, 019",3,0,0,0,80 - 90,"23, 24, 25",3,0,0,0,0,320,9,0
+Jakarta Utara,Pademangan,Ancol,"001, 002, 004, 005, 008, 010, 011",7,0,0,0, 10 - 20,"23, 24",2,0,0,0,0,0,0,0
+Jakarta Utara,Penjaringan,Kapuk Muara,"001, 002, 003, 004, 005",5,0,0,0,20 - 30,"23, 24",2,0,0,0,0,0,0,0
+Jakarta Utara,Tanjung Priok,Kebon Bawang,"001, 002, 003, 004, 005, 006, 007",7,0,0,0,30 - 70,"23, 24",2,0,0,0,0,0,0,0
+Jakarta Utara,Tanjung Priok,Papango,"005, 006",2,0,0,0,20 - 50,"23, 24",2,0,0,0,0,0,0,0
+Jakarta Utara,Tanjung Priok,Sunter Agung,"002, 005, 006, 007, 008, 009, 011, 012, 013, 015, 017, 018, 019",13,0,0,0,50 - 60,"23, 24",2,0,0,0,0,0,0,0
+Jakarta Utara,Tanjung Priok,Tanjung Priuk,"001, 007, 013, 014, 015",5,0,0,0,0 - 40,"23, 24",2,0,0,0,0,0,0,0
+Jakarta Utara,Tanjung Priok,Warakas,"001, 002, 003, 004, 005, 006, 007, 008, 009, 010, 011, 012, 013,  014",14,0,0,0,50 - 85,"23, 24",2,0,0,0,0,0,0,0

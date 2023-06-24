@@ -1,0 +1,21 @@
+kota_administrasi,kecamatan,kelurahan,rw,jumlah_terdampak_rw,jumlah_terdampak_rt,jumlah_terdampak_kk,jumlah_terdampak_jiwa,ketinggian_air,tanggal_kejadian,lama_genangan,jumlah_meninggal,jumlah_hilang,jumlah_luka_berat,jumlah_luka_ringan,jumlah_pengungsi_tertinggi,jumlah_tempat_pengungsian,nilai_kerugian
+Jakarta Barat,Kembangan,Kembangan Selatan,  001,1,1,0,0,50,23,1,0,0,0,0,0,0,0
+Jakarta Barat,Kembangan,Kembangan Utara,"001, 004, 005, 010",4,5,0,10,50 - 80 ,"23, 24",2,0,0,0,0,0,0,0
+Jakarta Selatan,Cilandak,Pondok Labu,"001, 003, 007, 009, 010",5,9,0,0,  10 - 40 ,11,2,0,0,0,0,0,0,0
+Jakarta Selatan,Cilandak,Cipete Selatan,"003, 006",2,2,0,0,20 - 40 ,  04,2,0,0,0,0,0,0,0
+Jakarta Selatan,Jagakarsa,Cipedak,"004, 005, 006",3,3,0,0,  10 - 30 ,"10, 11",2,0,0,0,0,0,0,0
+Jakarta Selatan,Kebayoran Baru,Gandaria Utara,  012,1,0,0,0,  10 - 30 ,"04, 05",2,0,0,0,0,0,0,0
+Jakarta Selatan,Kebayoran Baru,Petogogan,"001, 002, 003",3,0,0,0,90,"04, 05, 10, 12, 23",4,0,0,0,0,0,0,0
+Jakarta Selatan,Kebayoran Lama,Cipulir,  010,1,1,0,0,60,"10, 11, 23",3,0,0,0,0,0,0,0
+Jakarta Selatan,Kebayoran Lama,Kebayoran Lama Utara, 005,1,0,0,0,30 - 40 ,"04, 05",2,0,0,0,0,0,0,0
+Jakarta Selatan,Kebayoran Lama,Pondok Pinang,  005,1,4,0,0,  10 - 40 ,23,1,0,0,0,0,0,0,0
+Jakarta Selatan,Mampang Prapatan,Bangka,"001, 002, 003, 004, 005",5,2,0,0,80,"04, 05, 23",4,0,0,0,0,0,0,0
+Jakarta Selatan,Mampang Prapatan,Pela Mampang,"004, 007",2,0,0,0,20 - 40 ,"04, 05",2,0,0,0,0,0,0,0
+Jakarta Selatan,Pancoran,Kalibata,"005, 008, 009",3,0,0,0,50,"04, 05, 10, 11",4,0,0,0,0,0,0,0
+Jakarta Selatan,Pasar Minggu,Cilandak Timur,"001, 003",2,3,0,0,20 - 40 ,"10, 11",2,0,0,0,0,0,0,0
+Jakarta Selatan,Pasar Minggu,Pejaten Timur,"005, 006, 007, 008",4,5,67,270,  10 - 90 ,11,1,0,0,0,0,0,0,0
+Jakarta Selatan,Tebet,Bukit Duri,"010, 011",2,6,0,0,  10 - 20 ,11,1,0,0,0,0,0,0,0
+Jakarta Timur,Jatinegara,Bidara Cina,"007, 011",2,9,0,0,20,11,1,0,0,0,0,0,0,0
+Jakarta Timur,Jatinegara,Kampung Melayu,"004, 005, 007, 008",4,14,50,80,50 - 100 ,"11, 20",2,0,0,0,0,0,0,0
+Jakarta Timur,Kramat Jati,Cawang,"001, 002, 003, 005, 008",5,21,975,3234,30 - 100 ,11,1,0,0,0,0,0,0,0
+Jakarta Timur,Kramat Jati,Cililitan,"006, 007",2,4,68,246,50 - 90 ,11,1,0,0,0,0,0,0,0

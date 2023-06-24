@@ -1,0 +1,32 @@
+kota_administrasi,kecamatan,kelurahan,rw,jumlah_terdampak_rw,jumlah_terdampak_rt,jumlah_terdampak_kk,jumlah_terdampak_jiwa,ketinggian_air,tanggal_kejadian,lama_genangan,jumlah_meninggal,jumlah_hilang,jumlah_luka_berat,jumlah_luka_ringan,jumlah_pengungsi_tertinggi,jumlah_tempat_pengungsian,nilai_kerugian
+Jakarta Barat,Cengkareng,Rawa Buaya,"002, 003, 004",3,14,0,0,60 -150 ,"07, 25",1,0,0,0,0,0,0,0
+Jakarta Barat,Kebon Jeruk,Kedoya Selatan,  005,1,1,0,0,  10 - 40 ,"07, 08",2,0,0,0,0,0,0,0
+Jakarta Barat,Kebon Jeruk,Kedoya Utara,"002, 008",2,4,0,0,  10 - 40 ,25,1,0,0,0,0,0,0,0
+Jakarta Barat,Kembangan,Kembangan Selatan,"005, 009",2,2,0,0,  10 - 20 ,8,1,0,0,0,0,0,0,0
+Jakarta Barat,Kembangan,Kembangan Utara,  001,1,1,0,0,20 - 60 ,25,1,0,0,0,0,0,0,0
+Jakarta Selatan,Pasar Minggu,Cilandak Timur,"001, 003, 004",3,1,0,0,20 - 60 ,"01, 08",1,0,0,0,0,0,0,0
+Jakarta Selatan,Pasar Minggu,Pasar Minggu,  007,1,1,0,0,  10 - 40 ,25,1,0,0,0,0,0,0,0
+Jakarta Selatan,Kebayoran Baru,Cipete Utara,"002, 006, 010",3,5,275,829,  10 - 100 ,"07, 08",2,0,0,0,0,0,0,0
+Jakarta Selatan,Kebayoran Baru,Petogogan,"001, 002, 003",3,29,2889,7362,  5 - 70 ,"08, 24, 25",1,0,0,0,0,0,0,0
+Jakarta Selatan,Kebayoran Lama,Cipulir,  010,1,1,45,135,170,"07, 08, 15",2,0,0,0,0,20,0,0
+Jakarta Selatan,Kebayoran Lama,Pondok Pinang,"002, 003, 004, 005, 007, 008",6,9,260,780,  10 - 95 ,"07, 08",2,0,0,0,0,9,0,0
+Jakarta Selatan,Kebayoran Lama,Kebayoran Lama Utara,  002,1,0,0,0,  10 - 30 ,07,1,0,0,0,0,0,0,0
+Jakarta Selatan,Mampang Prapatan,Bangka,"002, 003, 004",3,7,85,270,20 - 150 ,"07, 25,26",2,0,0,0,0,270,3,0
+Jakarta Selatan,Pancoran,Rawajati,  010,1,1,0,0,  10 - 20 ,07,1,0,0,0,0,0,0,0
+Jakarta Selatan,Pancoran,Kalibata,"005, 008, 009",3,1,0,0,30 - 50 ,25,1,0,0,0,0,0,0,0
+Jakarta Selatan,Pancoran,Duren Tiga,"001, 005",2,5,0,0,50 - 60 ,25,1,0,0,0,0,0,0,0
+Jakarta Selatan,Pancoran,Pancoran,  004,1,0,0,0,  10 - 30 ,25,1,0,0,0,0,0,0,0
+Jakarta Selatan,Tebet,Bukit Duri,"007, 010",2,3,0,0,  10 - 40 ,"07, 08",2,0,0,0,0,0,0,0
+Jakarta Selatan,Cilandak,Pondok Labu,"003, 007, 010",3,4,0,0,30 - 50 ,"07, 08",2,0,0,0,0,0,0,0
+Jakarta Selatan,Pesanggrahan,Ulujami,"001, 003, 005, 007",4,15,156,468,20 - 60 ,08,1,0,0,0,0,0,0,0
+Jakarta Timur,Jatinegara,Bidara Cina,"007, 011",2,2,0,0,  10 - 50 ,"04, 07",1,0,0,0,0,0,0,0
+Jakarta Timur,Jatinegara,Kampung Melayu,"004, 005, 007, 008",4,17,297,951,  5 - 60 ,"07, 08, 15",1,0,0,0,0,141,2,0
+Jakarta Timur,Jatinegara,Cipinang Besar Selatan,  001,1,0,0,0,  10 - 50 ,24,1,0,0,0,0,0,0,0
+Jakarta Timur,Kramat Jati,Cawang,"001, 002, 003, 005, 008",5,5,841,3886,  10 -70 ,"07, 15",1,0,0,0,0,0,0,0
+Jakarta Timur,Kramat Jati,Cililitan,"006, 007",2,3,8,50,20 - 50 ,7,1,0,0,0,0,0,0,0
+Jakarta Timur,Kramat Jati,Batu Ampar,  003,1,1,0,0,20 - 40 ,25,1,0,0,0,0,0,0,0
+Jakarta Timur,Kramat Jati,Tengah,"005, 007, 009",3,0,0,0,20 - 60 ,25,1,0,0,0,0,0,0,0
+Jakarta Timur,Makasar,Cipinang Melayu,"003, 004",2,11,0,0,20 - 170 ,"05, 15, 17, 20, 24, 25",1,0,0,0,0,311,4,0
+Jakarta Timur,Makasar,Halim Perdana Kusuma,"005, 007, 008",3,17,185,600,20 - 90 ,"24, 25, 26",2,0,0,0,0,0,0,0
+Jakarta Timur,Duren Sawit,Pondok Kelapa,  008,1,1,0,0,  10 - 35 ,25,1,0,0,0,0,0,0,0
+Jakarta Utara,Tanjung Priok,Sungai Bambu,"001, 002",2,2,0,0,  10 - 20 ,25,1,0,0,0,0,0,0,0

@@ -1,0 +1,44 @@
+kota_administrasi,kecamatan,kelurahan,rw,jumlah_terdampak_rw,jumlah_terdampak_rt,jumlah_terdampak_kk,jumlah_terdampak_jiwa,ketinggian_air,tanggal_kejadian,lama_genangan,jumlah_meninggal,jumlah_hilang,jumlah_luka_berat,jumlah_luka_ringan,jumlah_pengungsi_tertinggi,jumlah_tempat_pengungsian,nilai_kerugian
+Jakarta Pusat,KEC. SENEN,KEL. KRAMAT,1,1,1,0,0,20 cm,tgl. 26,0,0,0,0,0,0,0,0
+Jakarta Utara,KEC. CILINCING,KEL. SEMPER TIMUR,"03, 09",2,6,0,0,10 cm s/d 50 cm,tgl 05,0,0,0,0,0,0,0,0
+Jakarta Utara,KEC. CILINCING,KEL. KALIBARU,"07, 08, 012",3,3,0,0,30 cm ,tgl 05,0,0,0,0,0,0,0,0
+Jakarta Utara,KEC. CILINCING,KEL. CILINCING,"06, 09",2,4,0,0,30 cm ,tgl 05,0,0,0,0,0,0,0,0
+Jakarta Utara,KEC. CILINCING,KEL. ROROTAN,5,1,1,0,0,50 cm,tgl 05,0,0,0,0,0,0,0,0
+Jakarta Utara,KEC. KELAPA GADING,KEL. PEGANGSAAN DUA,3,1,1,0,0,30 cm ,tgl 05,0,0,0,0,0,0,0,0
+Jakarta Utara,KEC. KOJA,KEL. RAWA BADAK SELATAN,"01, 04, 011",3,4,0,0,10 cm s/d 20 cm,tgl 05,0,0,0,0,0,0,0,0
+Jakarta Utara,KEC. PADEMANGAN,KEL. ANCOL,"05, 010, 012",3,3,0,0,25 cm s/d 30 cm,"tgl 05,06",0,0,0,0,0,0,0,0
+Jakarta Utara,KEC. PENJARINGAN,KEL. PLUIT,"01, 011, 022",3,7,0,0,40 cm ,tgl 05,0,0,0,0,0,0,0,0
+Jakarta Utara,KEC. PENJARINGAN,KEL. PEJAGALAN,"07, 015",2,2,0,0,15 cm s/d 30 cm,tgl 05,0,0,0,0,0,0,0,0
+Jakarta Utara,KEC. PENJARINGAN,KEL. PENJARINGAN,8,1,2,0,0,30 cm ,tgl 05,0,0,0,0,0,0,0,0
+Jakarta Utara,KEC. PENJARINGAN,KEL. KAMAL MUARA,3,1,1,0,0,50 cm,tgl 05,0,0,0,0,0,0,0,0
+Jakarta Utara,KEC. TANJUNG PRIOK,KEL. WARAKAS,1,1,4,0,0,50 cm,tgl 05,0,0,0,0,0,0,0,0
+Jakarta Utara,KEC. TANJUNG PRIOK,KEL. KEBON BAWANG,2,1,1,0,0,10 cm,tgl 05,0,0,0,0,0,0,0,0
+Jakarta Utara,KEC. TANJUNG PRIOK,KEL. SUNGAI BAMBU,10,1,1,0,0,15 cm,tgl 05,0,0,0,0,0,0,0,0
+Jakarta Utara,KEC. TANJUNG PRIOK,KEL. TANJUNG PRIOK,"01, 03, 06, 012, 013, 014, 015",7,7,0,0,20 cm s/d 30 cm,tgl 05,0,0,0,0,0,0,0,0
+Jakarta Barat,KEC. KEBON JERUK,KEL. KEDOYA UTARA,"01,02,04,08",4,8,0,0,15 cm s/d 50 cm,tgl. 05,0,0,0,0,0,0,0,0
+Jakarta Barat,KEC. KEBON JERUK,KEL. KEDOYA SELATAN,2,1,1,0,0,25 cm ,tgl. 05,0,0,0,0,0,0,0,0
+Jakarta Barat,KEC. KEBON JERUK,KEL. DURI KEPA,"02, 03, 04, 05, 08, 09, 013",7,8,0,0,20 cm s/d 40 cm,tgl. 05,0,0,0,0,0,0,0,0
+Jakarta Barat,KEC. CENGKARENG,KEL. KEDAUNG KALI ANGKE,"01, 02, 03, 04, 05, 06, 07, 08",8,24,29,85,40 cm s/d 75 cm,tgl. 05,0,0,0,0,85,2,0,0
+Jakarta Barat,KEC. CENGKARENG,KEL. RAWA BUAYA,"01, 02, 04, 011",4,19,0,0,20 cm s/d 70 cm,tgl. 05,0,0,0,0,0,0,0,0
+Jakarta Barat,KEC. CENGKARENG,KEL. CENGKARENG TIMUR,"03, 04, 05, 012, 013, 014, 016",7,44,0,0,10 cm s/d 50 cm,"tgl. 05, 06",0,0,0,0,0,0,0,0
+Jakarta Barat,KEC. CENGKARENG,KEL. CENGKARENG BARAT,"06, 08, 09, 010, 014",5,13,0,0,50 cm ,tgl. 05,0,0,0,0,0,0,0,0
+Jakarta Barat,KEC. CENGKARENG,KEL. KAPUK,"01, 02, 3, 05, 06, 07, 09, 010, 012, 013, 015, 016",12,24,0,0,15 cm s/d 50 cm,tgl. 05,0,0,0,0,0,0,0,0
+Jakarta Barat,KEC. GROGOL PETAMBURAN,KEL. JELAMBAR BARU,"01, 02, 03, 04, 05, 06, 010, 012",8,8,0,0,20 cm s/d 60 cm,tgl. 05,0,0,0,0,0,0,0,0
+Jakarta Barat,KEC. GROGOL PETAMBURAN,KEL. JELAMBAR ,"03, 04, 07",3,3,0,0,30 cm s/d 40 cm,tgl. 05,0,0,0,0,0,0,0,0
+Jakarta Barat,KEC. KALIDERES,KEL. TEGAL ALUR,"01, 03, 04",3,10,0,0,15 cm s/d 80  cm,tgl. 05,0,0,0,0,0,0,0,0
+Jakarta Barat,KEC. KEMBANGAN,KEL. JOGLO,6,1,1,0,0,15 cm,tgl. 05,0,0,0,0,0,0,0,0
+Jakarta Barat,KEC. KEMBANGAN,KEL. KEMBANGAN UTARA,"04, 010",2,6,0,0,30 cm s/d 40 cm,tgl. 05,0,0,0,0,0,0,0,0
+Jakarta Barat,KEC. KEMBANGAN,KEL. KEMBANGAN SELATAN,8,1,1,0,0,20 cm,tgl. 05,0,0,0,0,0,0,0,0
+Jakarta Barat,KEC. TAMBORA,KEL. JEMBATAN LIMA,2,1,2,0,0,40 cm ,tgl. 05,0,0,0,0,0,0,0,0
+Jakarta Selatan,KEC. PANCORAN,KEL. RAWAJATI,7,1,1,0,0,10 s/d 30 cm,"tgl. 02, ",0,0,0,0,0,0,0,0
+Jakarta Selatan,KEC. PASAR MINGGU,KEL. CILANDAK TIMUR,3,1,1,0,0,80 cm,tgl 31,0,0,0,0,0,0,0,0
+Jakarta Selatan,KEC. PASAR MINGGU,KEL. JATI PADANG,8,1,2,0,0,10 s/d 60 cm,tgl 31,0,0,0,0,0,0,0,0
+Jakarta Selatan,KEC. KEBAYORAN BARU,KEL. PETOGOGAN,2,1,4,0,0,60 cm,tgl 31,0,0,0,0,0,0,0,0
+Jakarta Selatan,KEC. CILANDAK,KEL. PONDOK LABU,10,1,1,0,0,10 s/d 30 cm,tgl 31,0,0,0,0,0,0,0,0
+Jakarta Timur,KEC. JATINEGARA,KEL. KAMPUNG MELAYU,"04, 05, 07,08",4,24,286,925,10 s/d 100 cm,"tgl. 02, ",0,0,0,0,0,0,0,0
+Jakarta Timur,KEC. KRAMAT JATI,KEL.CAWANG,"01, 02, 03, 05, 08",5,11,0,0,10 s/d 80 cm,"tgl. 02, ",0,0,0,0,0,0,0,0
+Jakarta Timur,KEC. MAKASAR,KEL. CIPINANG MELAYU,3,1,5,0,0,5 s/d 10 cm,"tgl. 03, ",0,0,0,0,0,0,0,0
+Jakarta Timur,KEC. CAKUNG,KEL. RAWA TERATE,5,1,1,0,0,10 cm s/d 20 cm ,tgl. 06,0,0,0,0,0,0,0,0
+Jakarta Timur,KEC. CAKUNG,KEL. JATINEGARA,8,1,1,0,0,20 cm,tgl. 25,0,0,0,0,0,0,0,0
+Jakarta Timur,KEC. PASAR REBO,KEL. KALISARI,9,1,1,0,0,50 cm,tgl 31,0,0,0,0,0,0,0,0
+Jakarta Timur,KEC. CIRACAS,KEL. CIRACAS,9,1,1,0,0,50 cm,tgl 31,0,0,0,0,0,0,0,0

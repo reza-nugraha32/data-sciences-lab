@@ -1,0 +1,362 @@
+kota_administrasi,kecamatan,kelurahan,rw,jumlah_terdampak_rw,jumlah_terdampak_rt,jumlah_terdampak_kk,jumlah_terdampak_jiwa,ketinggian_air,tanggal_kejadian,lama_genangan,jumlah_meninggal,jumlah_hilang,jumlah_luka_berat,jumlah_luka_ringan,jumlah_pengungsi_tertinggi,jumlah_tempat_pengungsian,nilai_kerugian
+Jakarta Pusat,CEMPAKA PUTIH,CEMPAKA PUTIH BARAT,RW 08,1,1,0,0,15 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Pusat,JOHAR BARU,JOHAR BARU,RW 06,1,1,0,0,20 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Utara,TANJUNG PRIOK,KEBON BAWANG,RW 13,1,1,0,0,30 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Utara,TANJUNG PRIOK,KEBON BAWANG,0,0,1,0,0,30 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Utara,CILINCING,ROROTAN,RW 10,1,1,0,0,15 cm,20 Oktober,0,0,0,0,0,0,0,0
+Jakarta Utara,KOJA,RAWA BADAK SELATAN,RW 04,1,1,0,0,10 s/d 60 cm,26 Oktober,0,0,0,0,0,0,0,0
+Jakarta Utara,KOJA,RAWA BADAK SELATAN,RW 08,1,1,0,0,10 s/d 80 cm,26 Oktober,0,0,0,0,0,0,0,0
+Jakarta Utara,KOJA,RAWA BADAK SELATAN,RW 09,1,1,0,0,10 s/d 80 cm,26 Oktober,0,0,0,0,0,0,0,0
+Jakarta Utara,KOJA,RAWA BADAK SELATAN,RW 10,1,1,0,0,10 s/d 80 cm,26 Oktober,0,0,0,0,0,0,0,0
+Jakarta Utara,KOJA,RAWA BADAK SELATAN,RW 11,1,1,0,0,10 s/d 80 cm,26 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,KEDOYA SELATAN,RW 03,1,1,0,0,20 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,KEDOYA SELATAN,0,0,1,0,0,20 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,KEDOYA SELATAN,0,0,1,0,0,15 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,KEDOYA SELATAN,RW 04,1,1,0,0,25 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,KEDOYA SELATAN,RW 05,1,1,0,0,10 s/d 30 cm,"05,09,11 Oktober",0,0,0,0,0,9,1,0
+Jakarta Barat,KEBON JERUK,KEDOYA SELATAN,0,0,1,0,0,20 s/d 70 cm,"05,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,KEDOYA SELATAN,0,0,1,0,0,60 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,KEDOYA SELATAN,0,0,1,0,0,10 s/d 100 cm,"05,09,11,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,KEDOYA SELATAN,0,0,1,0,0,10 s/d 60 cm,"05,09,11,16,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,KEDOYA SELATAN,0,0,1,0,0,60 cm,11 Oktober,0,0,0,0,0,6,0,0
+Jakarta Barat,KEBON JERUK,KEDOYA SELATAN,0,0,1,0,0,100 cm,11 Oktober,0,0,0,0,0,4,0,0
+Jakarta Barat,KEBON JERUK,KEDOYA SELATAN,0,0,1,0,0,70 cm,11 Oktober,0,0,0,0,0,5,0,0
+Jakarta Barat,KEBON JERUK,KEDOYA SELATAN,RW 10,1,1,0,0,10 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,KEDOYA SELATAN,RW 11,1,1,0,0,50 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,KEDOYA UTARA,RW  02,1,1,0,0,20 cm s/d 60 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,KEDOYA UTARA,0,0,1,0,0,20 cm s/d 60 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,KEDOYA UTARA,0,0,1,0,0,10 s/d 60 cm,"09,10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,KEDOYA UTARA,0,0,1,0,0,10 s/d 60 cm,"09,10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,SUKABUMI SELATAN,RW 08,1,1,0,0,30 cm,"10,11,16 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,SUKABUMI UTARA,RW 02,1,1,0,0,20 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,SUKABUMI UTARA,RW 05,1,1,0,0,50 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,SUKABUMI UTARA,0,0,1,0,0,40 s/d 100 cm,"16,18 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,KEBON JERUK,RW 04,1,1,0,0,30 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,KEBON JERUK,RW 06,1,1,0,0,30 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,KEBON JERUK,RW 10,1,1,0,0,50 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,DURI KEPA,RW 02,1,1,0,0,40 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,DURI KEPA,RW 13,1,1,0,0,30 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,DURI KEPA,0,0,1,0,0,30 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,DURI KEPA,0,0,1,0,0,30 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,DURI KEPA,RW 08,1,1,0,0,80 s/d 100 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,PALMERAH,PALMERAH,RW 02,1,1,0,0,20 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,PALMERAH,PALMERAH,RW 15,1,1,0,0,40 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,GROGOL PETAMBURAN,JELAMBAR,RW 04,1,1,0,0,10 s/d 15 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,GROGOL PETAMBURAN,TANJUNG DUREN UTARA,RW 02,1,1,0,0,10 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,GROGOL PETAMBURAN,TANJUNG DUREN UTARA,RW 04,1,1,0,0,20 s/d 30 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEMBANGAN,KEMBANGAN UTARA,RW 04,1,1,0,0,10 s/d 30 cm,09 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEMBANGAN,KEMBANGAN SELATAN,RW 01,1,1,0,0,50 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEMBANGAN,KEMBANGAN SELATAN,RW 06,1,1,0,0,15 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEMBANGAN,KEMBANGAN SELATAN,0,0,1,0,0,15 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEMBANGAN,KEMBANGAN SELATAN,RW 08,1,1,0,0,50 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEMBANGAN,KEMBANGAN SELATAN,RW 09,1,1,0,0,90 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEMBANGAN,KEMBANGAN SELATAN,0,0,1,0,0,90 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEMBANGAN,KEMBANGAN SELATAN,0,0,1,0,0,90 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEMBANGAN,SRENGSENG,RW 02,1,1,0,0,50 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEMBANGAN,SRENGSENG,RW 03,1,1,0,0,20 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEMBANGAN,SRENGSENG,RW 05,1,1,0,0,40 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEMBANGAN,SRENGSENG,RW 06,1,1,0,0,50 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,KEMBANGAN,SRENGSENG,RW 07,1,1,0,0,20 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Barat,CENGKARENG,KEDAUNG KALI ANGKE,RW 08,1,1,0,0,20 cm s/d 50 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,CENGKARENG,KEDAUNG KALI ANGKE,0,0,1,0,0,20 cm s/d 50 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,CENGKARENG,KEDAUNG KALI ANGKE,0,0,1,0,0,20 cm s/d 50 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,CENGKARENG,DURI KOSAMBI,RW 04,1,1,0,0,30 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,CENGKARENG,DURI KOSAMBI,0,0,1,0,0,30 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,CENGKARENG,DURI KOSAMBI,0,0,1,0,0,25 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,CENGKARENG,DURI KOSAMBI,RW 06,1,1,0,0,15 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,CENGKARENG,DURI KOSAMBI,0,0,1,0,0,25 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,CENGKARENG,RAWA BUAYA,RW 01,1,1,0,0,20 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,CENGKARENG,RAWA BUAYA,0,0,1,0,0,20 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,CENGKARENG,RAWA BUAYA,0,0,1,0,0,20 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,CENGKARENG,RAWA BUAYA,RW 02,1,1,0,0,25 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,CENGKARENG,RAWA BUAYA,RW 11,1,1,0,0,20 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,CENGKARENG,RAWA BUAYA,0,0,1,0,0,10 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,CENGKARENG,RAWA BUAYA,RW 12,1,1,0,0,15 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,KALIDERES,PEGADUNGAN,RW 03,1,1,0,0,10 cm s/d 30 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,KALIDERES,PEGADUNGAN,0,0,1,0,0,10 cm s/d 30 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,KALIDERES,PEGADUNGAN,RW 05,1,1,0,0,10 cm s/d 30 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,KALIDERES,PEGADUNGAN,0,0,1,0,0,10 cm s/d 30 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,KALIDERES,PEGADUNGAN,RW 04,1,1,0,0,5 cm s/d 10 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Barat,KALIDERES,PEGADUNGAN,0,0,1,0,0,5 cm s/d 10 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,MAMPANG PRAPATAN,BANGKA,RW 02,1,1,0,0,10 cm s/d 100 cm,"04,05,10,11,27 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,MAMPANG PRAPATAN,BANGKA,0,0,1,0,0,20 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,MAMPANG PRAPATAN,BANGKA,RW 03,1,1,0,0,50 cm,27 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,MAMPANG PRAPATAN,BANGKA,0,0,1,0,0,25 cm,"04,05 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,MAMPANG PRAPATAN,BANGKA,RW 04,1,1,0,0,50 cm,"04,05 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,MAMPANG PRAPATAN,BANGKA,0,0,1,0,0,10 s/d 35 cm,"02,16,27 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,MAMPANG PRAPATAN,TEGAL PARANG,RW 07,1,1,0,0,10 cm s/d 30 cm,"04,05 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,MAMPANG PRAPATAN,TEGAL PARANG,0,0,1,0,0,10 cm s/d 30 cm,"04,05 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,MAMPANG PRAPATAN,PELA MAMPANG,RW 05,1,1,0,0,50 cm s/d 100 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,MAMPANG PRAPATAN,PELA MAMPANG,RW 07,1,1,0,0,30 cm s/d 60 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,MAMPANG PRAPATAN,PELA MAMPANG,RW 11,1,1,0,0,30 cm s/d 80 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PANCORAN,KALIBATA,RW 09,1,1,0,0,30 cm,02 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PANCORAN,RAWAJATI,RW 03,1,1,0,0,10 cm s/d 30 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PANCORAN,RAWAJATI,0,0,1,0,0,10 cm s/d 30 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PANCORAN,RAWAJATI,RW 07,1,1,0,0,10 cm s/d 40 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PANCORAN,RAWAJATI,0,0,1,0,0,10 cm s/d 40 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PANCORAN,RAWAJATI,0,0,1,0,0,10 cm s/d 40 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PANCORAN,PENGADEGAN,RW 01,1,1,0,0,10 cm s/d 120 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PASAR MINGGU,PEJATEN BARAT,RW 08,1,1,0,0,20 cm,02 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PASAR MINGGU,RAGUNAN,RW 09,1,1,0,0,20 cm,02 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PASAR MINGGU,CILANDAK TIMUR,RW 01,1,1,0,0,10 cm s/d 100 cm,"04,05,10,11 Oktober",0,0,0,0,0,150,2,0
+Jakarta Selatan,PASAR MINGGU,CILANDAK TIMUR,RW 03,1,1,0,0,20 cm s/d 180 cm,"04,05,10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,PASAR MINGGU,CILANDAK TIMUR,0,0,1,0,0,20 cm s/d 180 cm,"04,05,10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,PASAR MINGGU,PEJATEN TIMUR,RW 05,1,1,0,0,10 cm s/d 130 cm,05 Oktober,0,0,0,0,0,107,1,0
+Jakarta Selatan,PASAR MINGGU,PEJATEN TIMUR,RW 06,1,1,0,0,10 cm s/d 130 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,PASAR MINGGU,PEJATEN TIMUR,0,0,1,0,0,10 cm s/d 130 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,PASAR MINGGU,PEJATEN TIMUR,RW 07,1,1,0,0,10 cm s/d 100 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PASAR MINGGU,PEJATEN TIMUR,RW 08,1,1,0,0,10 cm s/d 85 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PASAR MINGGU,PEJATEN TIMUR,0,0,1,0,0,20 cm s/d 150 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PASAR MINGGU,PEJATEN TIMUR,0,0,1,0,0,20 cm s/d 150 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PASAR MINGGU,KEBAGUSAN,RW  01,1,1,0,0,20 cm s/d 40 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,PASAR MINGGU,JATI PADANG,RW 05,1,1,0,0,20 cm s/d 40 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,PASAR MINGGU,JATI PADANG,RW 06,1,1,0,0,20 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,PASAR MINGGU,JATI PADANG,0,0,1,0,0,10 cm s/d 20 cm,"10,11,26 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,PASAR MINGGU,JATI PADANG,0,0,1,0,0,10 cm s/d 20 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,PASAR MINGGU,JATI PADANG,0,0,1,0,0,20 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,JAGAKARSA,CIGANJUR,RW 2,1,1,300,1200,120 cm,"10,11 Oktober",0,0,0,0,0,271,3,0
+Jakarta Selatan,JAGAKARSA,CIGANJUR,0,0,1,0,0,120 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,JAGAKARSA,CIGANJUR,RW 05,1,1,0,0,10 cm s/d 40 cm,"04,05 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,JAGAKARSA,CIPEDAK,RW 04,1,1,0,0,50 cm s/d 70 cm,"04,05 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,JAGAKARSA,CIPEDAK,0,0,1,0,0,40 cm,"04,05 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,JAGAKARSA,CIPEDAK,RW 05,1,1,0,0,30 cm,"04,05 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,JAGAKARSA,CIPEDAK,0,0,1,0,0,40 cm,"04,05 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN BARU,PETOGOGAN,RW 02,1,1,0,0,30 cm s/d 60 cm,"05,16,27 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN BARU,PETOGOGAN,0,0,1,0,0,30 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN BARU,PETOGOGAN,RW 03,1,1,0,0,50 cm s/d 60 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,TEBET,KEBON BARU,RW 10,1,1,0,0,10 cm s/d 30 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,TEBET,KEBON BARU,0,0,1,0,0,30 cm s/d 50 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,TEBET,MANGGARAI,RW 01,1,1,0,0,10 cm s/d 50 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,TEBET,MANGGARAI,0,0,1,0,0,10 cm s/d 50 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,TEBET,MANGGARAI,0,0,1,0,0,10 cm s/d 50 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,TEBET,MANGGARAI,0,0,1,0,0,30 cm s/d 50 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,TEBET,MANGGARAI,RW 10,1,1,0,0,10 cm s/d 30 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,BINTARO,RW 01,1,1,0,0,50 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,BINTARO,0,0,1,0,0,30 s/d 50 cm,"04,05,09,10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,BINTARO,RW 03,1,1,0,0,10 s/d 30 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,BINTARO,RW 04,1,1,0,0,20 cm,09 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,BINTARO,RW 05,1,1,0,0,10 s/d 50 cm,"10,11,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,BINTARO,0,0,1,0,0,10 s/d 50 cm,"05,09,10,11,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,BINTARO,RW : 09,1,1,0,0,50 s/d 60 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,BINTARO,0,0,1,0,0,50 s/d 60 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,BINTARO,0,0,1,0,0,50 s/d 60 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,BINTARO,RW 10,1,1,0,0,30 s/d 50 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,BINTARO,0,0,1,0,0,30 s/d 50 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,BINTARO,0,0,1,0,0,30 s/d 50 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,BINTARO,RW 11,1,1,0,0,50 s/d 60 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,BINTARO,RW 12,1,1,0,0,40 cm,"05,10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,BINTARO,0,0,1,0,0,10 cm s/d 70 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,BINTARO,0,0,1,0,0,10 cm s/d 30 cm,"05,10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,BINTARO,RW 14,1,1,0,0,10 cm s/d 30 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,ULUJAMI,RW 01,1,1,0,0,10 cm s/d 50 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,ULUJAMI,0,0,1,0,0,10 cm s/d 50 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,ULUJAMI,0,0,1,0,0,10 cm s/d 50 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,ULUJAMI,0,0,1,0,0,10 cm s/d 50 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,ULUJAMI,0,0,1,0,0,10 cm s/d 50 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,ULUJAMI,0,0,1,0,0,10 cm s/d 50 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,ULUJAMI,0,0,1,0,0,10 cm s/d 50 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,ULUJAMI,0,0,1,0,0,10 cm s/d 50 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,ULUJAMI,RW 03,1,1,0,0,20 cm s/d 30 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,ULUJAMI,RW 04,1,1,0,0,10 cm s/d 30 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,ULUJAMI,0,0,1,0,0,10 cm s/d 30 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,ULUJAMI,RW 05,1,1,0,0,20 cm s/d 30 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,ULUJAMI,RW 07,1,1,0,0,20 cm s/d 30 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN LAMA,PONDOK PINANG,RW 01,1,1,0,0,10 cm s/d 80 cm,"05,10,11,25 Oktober",0,0,0,0,0,30,1,0
+Jakarta Selatan,KEBAYORAN LAMA,PONDOK PINANG,RW 05,1,1,0,0,20 cm s/d 125 cm,"05,10,11,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN LAMA,PONDOK PINANG,0,0,1,0,0,10 cm s/d 125 cm,"10,11,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN LAMA,PONDOK PINANG,0,0,1,0,0,10 cm s/d 125 cm,"05,10,11,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN LAMA,PONDOK PINANG,0,0,1,0,0,10 cm s/d 125 cm,"05,10,11,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN LAMA,PONDOK PINANG,0,0,1,0,0,10 cm s/d 125 cm,"05,10,11,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN LAMA,PONDOK PINANG,0,0,1,0,0,10 cm s/d 125 cm,"05,10,11,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN LAMA,PONDOK PINANG,RW 08,1,1,0,0,10 cm s/d 120 cm,"05,10,11,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN LAMA,PONDOK PINANG,0,0,1,0,0,10 cm s/d 120 cm,"05,10,11,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN LAMA,CIPULIR,RW 02,1,1,0,0,50 cm,18 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN LAMA,CIPULIR,RW 06,1,1,0,0,10 cm,18 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN LAMA,CIPULIR,0,0,1,0,0,10 cm,18 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN LAMA,CIPULIR,0,0,1,0,0,20 cm,18 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN LAMA,CIPULIR,RW 07,1,1,0,0,40 cm,18 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN LAMA,CIPULIR,RW 09,1,1,0,0,10 cm,18 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN LAMA,CIPULIR,0,0,1,0,0,40 cm,18 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN LAMA,CIPULIR,RW 10,1,1,0,0,10 cm s/d 80 cm,"05,06,10,11,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN LAMA,CIPULIR,0,0,1,45,225,10 cm s/d 150 cm,"05,06,09,10,11,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN LAMA,GROGOL UTARA,RW 11,1,1,0,0,20 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN LAMA,0,RW 14,1,1,0,0,40 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Selatan,CILANDAK,PONDOK LABU,RW 01,1,1,0,0,30 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,CILANDAK,PONDOK LABU,RW 02,1,1,0,0,80 s/d 100 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,CILANDAK,LEBAK BULUS,RW 01,1,1,0,0,20 cm s/d 60 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,CILANDAK,LEBAK BULUS,RW 04,1,1,0,0,20 cm s/d 60 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Selatan,CILANDAK,LEBAK BULUS,RW 08,1,1,0,0,20 cm s/d 60 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,BIDARA CINA,RW : 07,1,1,0,0,20 s/d 70 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,BIDARA CINA,0,0,1,0,0,20 s/d 70 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,BIDARA CINA,0,0,1,0,0,20 s/d 70 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,BIDARA CINA,0,0,1,0,0,20 s/d 70 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,BIDARA CINA,0,0,1,0,0,20 s/d 70 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,BIDARA CINA,0,0,1,0,0,20 s/d 70 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,BIDARA CINA,0,0,1,0,0,20 s/d 70 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,BIDARA CINA,0,0,1,0,0,20 s/d 70 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,BIDARA CINA,0,0,1,0,0,20 s/d 70 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,BIDARA CINA,0,0,1,0,0,20 s/d 70 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,BIDARA CINA,RW 11,1,1,5,20,10 s/d 100 cm,"05,25 Oktober",0,0,0,0,0,17,1,0
+Jakarta Timur,JATINEGARA,BIDARA CINA,0,0,1,8,28,10 s/d 100 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,BIDARA CINA,0,0,1,9,24,10 s/d 100 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,BIDARA CINA,0,0,1,9,31,10 s/d 100 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,BIDARA CINA,0,0,1,7,23,10 s/d 100 cm,"05,25,29 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,RW 04,1,1,17,51,10 cm s/d 150 cm,"05,11,29 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,0,0,1,19,66,10 cm s/d 150 cm,"05,11,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,RW 05,1,1,5,16,10 cm s/d 150 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,0,0,1,39,118,10 cm s/d 150 cm,"05,11,25,29 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,0,0,1,25,80,10 cm s/d 150 cm,"05,11,25,29 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,RW 06,1,1,6,18,10 cm s/d 30 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,RW 07,1,1,12,48,10 cm s/d 60 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,0,0,1,7,23,10 cm s/d 60 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,0,0,1,8,28,10 cm s/d 60 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,0,0,1,9,31,10 cm s/d 60 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,0,0,1,15,53,10 cm s/d 80 cm,"05,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,0,0,1,10,33,10 cm s/d 50 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,0,0,1,9,28,10 cm s/d 50 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,0,0,1,6,27,10 cm s/d 50 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,0,0,1,9,27,10 cm s/d 80 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,0,0,1,12,38,10 cm s/d 50 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,0,0,1,8,21,10 cm s/d 50 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,RW 08,1,1,9,28,10 cm s/d 30 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,0,0,1,5,15,10 cm s/d 30 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,0,0,1,12,36,10 cm s/d 80 cm,"05,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,0,0,1,6,21,10 cm s/d 30 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,0,0,1,9,31,10 cm s/d 50 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,0,0,1,7,22,10 cm s/d 50 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,0,0,1,14,46,10 cm s/d 80 cm,"05,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,0,0,1,16,54,10 cm s/d 80 cm,"05,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,0,0,1,17,58,10 cm s/d 80 cm,"05,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,0,0,1,15,51,10 cm s/d 80 cm,"05,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,CIPINANG MUARA,RW 13,1,1,0,0,10 cm,"26,27 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,RW 01,1,1,2,7,20 s/d 50 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,0,0,1,3,9,20 s/d 70 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,0,0,1,7,28,20 s/d 50 cm,05 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,RW 02,1,1,7,24,20 s/d 50 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,0,0,1,5,20,20 s/d 70 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,0,0,1,7,21,40 s/d 120 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,0,0,1,5,24,40 s/d 100 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,0,0,1,4,16,50 s/d 110 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,RW 03,1,1,15,45,60 s/d 120 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,0,0,1,6,24,20 s/d 120 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,0,0,1,7,21,20 s/d 70 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,0,0,1,8,24,20 s/d 120 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,RW 05,1,1,7,22,20 s/d 120 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,0,0,1,3,12,20 s/d 80 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,0,0,1,12,38,20 s/d 120 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,0,0,1,5,21,20 s/d 50 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,RW 08,1,1,5,16,20 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,0,0,1,5,17,20 s/d 70 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,0,0,1,10,30,20 s/d 120 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,0,0,1,6,18,20 s/d 70 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,0,0,1,5,13,20 s/d 100 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,0,0,1,3,7,20 s/d 100 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,0,0,1,0,0,20 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,RW 12,1,1,2,5,20 s/d 30 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,0,0,1,0,0,20 s/d 30 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,BALEKAMBANG,RW 01,1,1,0,0,20 cm s/d 70 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,BALEKAMBANG,0,0,1,0,0,20 cm s/d 70 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,BALEKAMBANG,RW 02,1,1,0,0,20 cm s/d 70 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,BALEKAMBANG,RW 05,1,1,0,0,20 cm s/d 70 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,BALEKAMBANG,0,0,1,0,0,20 cm s/d 70 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,BALEKAMBANG,0,0,1,0,0,20 cm s/d 70 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,BALEKAMBANG,0,0,1,14,41,50 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,BALEKAMBANG,0,0,1,3,10,50 cm,"05,25 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,DUKUH,RW 03,1,1,0,0,50 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CILILITAN,RW 06,1,1,31,70,10 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CILILITAN,0,0,1,12,46,10 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CILILITAN,0,0,1,24,59,10 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CILILITAN,RW  07,1,1,30,70,10 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CILILITAN,RW 16,1,1,16,40,10 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,PASAR REBO,KALISARI,RW 01,1,1,0,0,10 cm ,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,PASAR REBO,KALISARI,RW 02,1,1,0,0,10 cm ,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,PASAR REBO,KALISARI,RW 09,1,1,0,0,40 cm ,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,PASAR REBO,CIJANTUNG,RW 11,1,1,0,0,35 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,PASAR REBO,CIJANTUNG,0,0,1,0,0,40 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,PASAR REBO,PEKAYON,RW 07,1,1,0,0,30 cm,26 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,PASAR REBO,PEKAYON,0,0,1,0,0,30 cm,26 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,PASAR REBO,PEKAYON,0,0,1,0,0,50 cm,26 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,SUSUKAN,RW 05,1,1,0,0,15 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,SUSUKAN,0,0,1,0,0,15 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,SUSUKAN,0,0,1,0,0,15 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,SUSUKAN,0,0,1,0,0,15 cm,25 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,SUSUKAN,RW 07,1,1,0,0,40 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,SUSUKAN,RW 08,1,1,0,0,20 cm ,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,CIRACAS,RW 03,1,1,0,0,70 cm s/d 80 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,CIRACAS,0,0,1,0,0,70 cm s/d 80 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,CIRACAS,0,0,1,0,0,70 cm s/d 80 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,CIRACAS,0,0,1,0,0,70 cm s/d 80 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,CIRACAS,0,0,1,0,0,70 cm s/d 80 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,CIRACAS,RW 04,1,1,0,0,20 cm s/d 80 cm,"10,11,26 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,CIRACAS,0,0,1,0,0,20 cm s/d 80 cm,"10,11,26  Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,CIRACAS,RW 05,1,1,0,0,70 cm s/d 80 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,CIRACAS,0,0,1,0,0,70 cm s/d 80 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,RAMBUTAN,RW 02,1,1,128,413,10 s/d 60 cm,"10,11,19,26,27 Oktober",0,0,0,0,0,3,1,0
+Jakarta Timur,CIRACAS,RAMBUTAN,0,0,1,77,385,10 s/d 50 cm,"10,11,19,26,27 Oktober",0,0,0,0,0,12,0,0
+Jakarta Timur,CIRACAS,RAMBUTAN,RW 03,1,1,23,86,40 cm,"10,11,26,27 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,RAMBUTAN,0,0,1,45,225,10 s/d 50 cm,"10,11,19,26,27 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,RAMBUTAN,0,0,1,35,120,10 s/d 70 cm,"10,11,19,26,27 Oktober",0,0,0,0,0,11,0,0
+Jakarta Timur,CIRACAS,RAMBUTAN,0,0,1,35,120,10 s/d 40 cm,"10,11,19,26,27 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,RAMBUTAN,RW 04,1,1,25,90,40 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,RAMBUTAN,0,0,1,50,150,60 cm,"10,11 Oktober",0,0,0,0,0,30,1,0
+Jakarta Timur,CIRACAS,RAMBUTAN,0,0,1,50,150,50 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,RAMBUTAN,0,0,1,60,178,40 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,RAMBUTAN,RW 05,1,1,98,117,70 cm,"10,11,26,27 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,RAMBUTAN,0,0,1,38,162,70 cm,"10,11,26,27 Oktober",0,0,0,0,0,20,1,0
+Jakarta Timur,CIRACAS,RAMBUTAN,0,0,1,7,30,40 cm,"10,11,26,27 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,RAMBUTAN,RW 06,1,1,12,35,40 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,RAMBUTAN,0,0,1,65,150,40 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,RAMBUTAN,0,0,1,60,120,20 s/d 50 cm,"10,11,26,27 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,RAMBUTAN,0,0,1,80,160,20 s/d 40 cm,"10,11,26,27 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,RAMBUTAN,0,0,1,56,97,15 s/d 30 cm,"10,11,26,27 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,RAMBUTAN,0,0,1,11,45,15 s/d 40 cm,"10,11,26,27 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIPAYUNG,BAMBU APUS,RW 02,1,1,0,0,60 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIPAYUNG,BAMBU APUS,RW 03,1,1,0,0,100 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIPAYUNG,CIPAYUNG,RW 04,1,1,0,0,30 cm ,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIPAYUNG,SETU,RW 04,1,1,0,0,30 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIPAYUNG,SETU,RW 03,1,1,0,0,50 cm s/d 60 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIPAYUNG,SETU,0,0,1,0,0,50 cm s/d 60 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,CIPAYUNG,LUBANG BUAYA,RW 09,1,1,0,0,40 cm s/d 50 cm,19 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,CIPINANG MELAYU,RW 03,1,1,0,0,10 cm s/d 40 cm,"10,11,27,28 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,CIPINANG MELAYU,0,0,1,0,0,10 cm s/d 40 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,CIPINANG MELAYU,0,0,1,0,0,10 cm s/d 40 cm,"10,11,27,28 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,CIPINANG MELAYU,RW 04,1,1,0,0,10 s/d 30 cm,"27,28 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,CIPINANG MELAYU,0,0,1,0,0,10 s/d 30 cm,"27,28 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,CIPINANG MELAYU,0,0,1,0,0,10 cm s/d 40 cm,"10,11 Oktober",0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,MAKASAR,RW 04,1,1,0,0,30 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,MAKASAR,0,0,1,0,0,30 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,MAKASAR,0,0,1,0,0,30 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,MAKASAR,RW 05,1,1,0,0,30 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,MAKASAR,0,0,1,0,0,30 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,MAKASAR,0,0,1,0,0,30 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,MAKASAR,RW 07,1,1,0,0,20 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,MAKASAR,0,0,1,0,0,30 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,MAKASAR,0,0,1,0,0,20 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,MAKASAR,0,0,1,0,0,30 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,PINANG RANTI,RW 04,1,1,0,0,30 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,KEBON PALA,RW 01,1,1,0,0,30 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,KEBON PALA,0,0,1,0,0,10 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,KEBON PALA,0,0,1,0,0,20 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,KEBON PALA,0,0,1,0,0,30 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,KEBON PALA,0,0,1,0,0,30 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,KEBON PALA,0,0,1,0,0,40 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,KEBON PALA,0,0,1,0,0,10 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,KEBON PALA,0,0,1,0,0,40 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,KEBON PALA,RW 04,1,1,0,0,80 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,KEBON PALA,RW 06,1,1,0,0,80 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,KEBON PALA,RW 09,1,1,0,0,10 cm,19 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,KEBON PALA,0,0,1,0,0,30 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,KEBON PALA,0,0,1,0,0,80 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,KEBON PALA,RW 10,1,1,0,0,30 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,KEBON PALA,0,0,1,0,0,80 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,KEBON PALA,0,0,1,0,0,30 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,KEBON PALA,0,0,1,0,0,30 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,KEBON PALA,0,0,1,0,0,30 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,KEBON PALA,RW 11,1,1,0,0,50 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,KEBON PALA,0,0,1,0,0,50 cm,11 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,PULO GADUNG,PULO GADUNG,RW 07,1,1,0,0,30 cm,16 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,CAKUNG,PENGGILINGAN,RW 07,1,1,0,0,10 cm,20 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,CAKUNG,PULO GEBANG,RW 07,1,1,0,0,15 cm,20 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,CAKUNG,JATINEGARA,RW 12,1,1,0,0,15 cm,20 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,CAKUNG,CAKUNG BARAT,RW 04,1,1,0,0,20 cm,20 Oktober,0,0,0,0,0,0,0,0
+Jakarta Timur,DUREN SAWIT,DUREN SAWIT,RW 10,1,1,0,0,15 cm,20 Oktober,0,0,0,0,0,0,0,0

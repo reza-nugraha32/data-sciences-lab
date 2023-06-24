@@ -1,0 +1,73 @@
+kota_administrasi,kecamatan,kelurahan,rw,jumlah_terdampak_rw,jumlah_terdampak_rt,jumlah_terdampak_kk,jumlah_terdampak_jiwa,ketinggian_air,tanggal_kejadian,lama_genangan,jumlah_meninggal,jumlah_hilang,jumlah_luka_berat,jumlah_luka_ringan,jumlah_pengungsi_tertinggi,jumlah_tempat_pengungsian,nilai_kerugian
+Jakarta Barat,Cengkareng,Cengkareng Barat,"008, 009, 010, 011, 014",5,8,6599,21711, 40 - 80 ,"28, 29",1,0,0,0,0,243,5,0
+Jakarta Barat,Cengkareng,Cengkareng Timur,"003, 011, 013, 016",4,0,700,0, 10 - 100 ,"26, 27, 28, 29",4,0,0,0,0,0,1,0
+Jakarta Barat,Cengkareng,Duri Kosambi,"004, 005, 006, 014",4,0,375,1019, 30 - 100 ,"26, 28",4,0,0,0,0,150,4,0
+Jakarta Barat,Cengkareng,Kapuk,"001, 002, 003, 004, 005, 006, 007, 008, 009, 011, 012, 013, 015, 016",14,37,0,0, 5 - 30,"26, 27, 29",3,0,0,0,0,0,1,0
+Jakarta Barat,Cengkareng,Kedaung Kali Angke,"001, 004, 005, 008, 010",5,12,345,1225, 10 - 50 ,"26, 27, 28, 29",4,0,0,0,0,50,1,0
+Jakarta Barat,Cengkareng,Rawa Buaya,"001, 002, 004, 005, 006, 008",6,9,97,443, 30 - 100 ,"26, 28",4,0,0,0,0,443,2,0
+Jakarta Barat,Grogol Petamburan,Wijaya Kesuma,"004, 005",2,5,0,0, 30 - 50 ,"26, 28, 29",3,0,0,0,0,0,1,0
+Jakarta Barat,Kalideres,Kalideres,"001, 003, 004, 007, 008, 009, 010, 012, 014, 015, 016",11,0,0,0, 20 - 60 ,"26, 28, 29",3,0,0,0,0,0,1,0
+Jakarta Barat,Kalideres,Kamal,"006, 008, 009",3,17,335,500, 25 - 30 ,"27, 28",3,0,0,0,0,0,1,0
+Jakarta Barat,Kalideres,Pegadungan,  011,1,0,0,0, 20 - 30 ,"28, 29",2,0,0,0,0,0,1,0
+Jakarta Barat,Kalideres,Tegal Alur,"001, 002, 003, 004, 005, 006, 007, 008, 009, 010, 011, 012, 013, 014, 015, 016",16,157,118,280, 80 - 100 ,"28, 29",5,0,0,0,0,69,1,0
+Jakarta Barat,Kebon Jeruk,Kedoya Utara,"002, 008",2,0,0,0, 20 - 40 ,"28, 29",2,0,0,0,0,0,1,0
+Jakarta Barat,Kebon Jeruk,Kelapa Dua,"002, 004, 008",3,3,0,0, 10 - 30 ,"26, 27",2,0,0,0,0,0,0,0
+Jakarta Barat,Kembangan,Joglo,"001, 002, 006, 008",4,0,0,0, 5 - 30,28,1,0,0,0,0,0,1,0
+Jakarta Barat,Kembangan,Kembangan Utara,"001, 002, 003, 004, 005, 010",6,9,0,40, 20 - 70 ,"26, 29",3,0,0,0,0,40,1,0
+Jakarta Barat,Kembangan,Meruya Utara,  004,1,1,0,0, 15 - 25 ,"28, 29",2,0,0,0,0,0,1,0
+Jakarta Barat,Kembangan,Srengseng, 001,1,0,0,0, 15 - 30 ,"28, 29",2,0,0,0,0,0,1,0
+Jakarta Selatan,Cilandak,Cilandak Barat,"003, 013",2,2,0,0, 40 - 70 ,"12, 13",2,0,0,0,0,0,0,0
+Jakarta Selatan,Cilandak,Lebak Bulus,  008,1,1,0,0, 20 - 40 ,29,1,0,0,0,0,0,0,0
+Jakarta Selatan,Cilandak,Pondok Labu,"001, 003, 007, 009, 010",5,0,0,0, 20 - 200 ,"12, 13, 14, 15, 26, 27, 28",10,0,0,0,0,0,2,0
+Jakarta Selatan,Jagakarsa,Ciganjur,"003, 005",2,0,31,168, 20 - 60 ,"10, 12, 13",3,0,0,0,0,72,1,0
+Jakarta Selatan,Jagakarsa,Jagakarsa,"001, 002, 003, 004, 005, 007",6,15,0,0, 15 - 30 ,"12, 13",2,0,0,0,0,0,0,0
+Jakarta Selatan,Jagakarsa,Lenteng Agung,  005,1,1,0,0, 50,"12, 13",2,0,0,0,0,0,0,0
+Jakarta Selatan,Jagakarsa,Srengseng Sawah,"001, 003, 004, 006, 007, 008, 009, 012, 016, 017",10,17,71,362, 10 - 30 ,"12, 13",2,0,0,0,0,0,0,0
+Jakarta Selatan,Kebayoran Baru,Cipete Utara,  006,1,3,0,0, 20 - 60 ,"12, 13, 26, 27, 28",5,0,0,0,0,0,1,0
+Jakarta Selatan,Kebayoran Baru,Petogogan,"002, 003",2,0,0,0, 50,"28, 29",2,0,0,0,0,0,1,0
+Jakarta Selatan,Kebayoran Lama,Grogol Utara,  004,1,0,0,0, 5 - 10,"28, 29",2,0,0,0,0,0,1,0
+Jakarta Selatan,Mampang Prapatan,Bangka,"002, 003, 004",3,0,575,2062, 30 - 50 ,"14, 26, 27",6,0,0,0,0,0,5,0
+Jakarta Selatan,Mampang Prapatan,Pela Mampang,"004, 005, 011",3,0,0,0, 10 - 30 ,"28, 29",2,0,0,0,0,0,1,0
+Jakarta Selatan,Pancoran,Kalibata,  008,1,0,0,0, 0 - 20 ,"14, 15",2,0,0,0,0,0,0,0
+Jakarta Selatan,Pancoran,Pengadegan," 001, 002",2,0,0,0, 30 - 50 ,"02, 03, 11, 28",4,0,0,0,0,0,1,0
+Jakarta Selatan,Pancoran,Rawajati,"003, 007",2,0,0,0, 10 - 70 ,"12, 13, 28",6,0,0,0,0,0,1,0
+Jakarta Selatan,Pasar Minggu,Kebagusan,"005, 008",2,1,0,0, 30,"12, 13",2,0,0,0,0,0,0,0
+Jakarta Selatan,Pasar Minggu,Pejaten Timur,"005, 006, 007, 008, 010",5,3,151,443, 80,"03, 29",2,0,0,0,0,0,1,0
+Jakarta Selatan,Tebet,Bukit Duri,  010,1,0,0,0, 10 - 50 ,"3, 12, 13, 19",4,0,0,0,0,0,1,0
+Jakarta Selatan,Tebet,Kebon Baru,  010,1,0,0,0, 10 - 20 ,"02, 03, 11, 28, 29",5,0,0,0,0,0,1,0
+Jakarta Timur,Cakung,Cakung Barat,"003, 007",2,2,150,0, 30 - 70 ,"26, 28, 29",5,0,0,0,0,0,1,0
+Jakarta Timur,Cakung,Cakung Timur,  007,1,0,0,0, 0 - 30 ,25,1,0,0,0,0,0,0,0
+Jakarta Timur,Cakung,Jatinegara,"002, 006",2,0,0,0, 10 - 20 ,"26, 27",2,0,0,0,0,0,0,0
+Jakarta Timur,Cakung,Rawa Terate,  005,1,0,218,0, 10 - 90 ,"25, 26, 27, 28",4,0,0,0,0,0,1,0
+Jakarta Timur,Cipayung,Cilangkap,  004,1,0,0,0, 10 - 20 ,"28, 29",2,0,0,0,0,0,1,0
+Jakarta Timur,Cipayung,Pondok Ranggon,"001, 002, 004, 005",4,4,0,0, 30 - 40 ,"12, 13",2,0,0,0,0,0,0,0
+Jakarta Timur,Ciracas,Cibubur,"002, 004, 003, 010, 012, 014",6,14,500,1500, 40 - 100 ,"12, 13, 23, 24",4,0,0,0,0,0,0,0
+Jakarta Timur,Ciracas,Ciracas,"003, 004, 006, 009",4,8,0,300, 30 - 80 ,"12, 13",2,0,0,0,0,0,0,0
+Jakarta Timur,Ciracas,Kelapa Dua Wetan,"002, 006, 008, 009, 012",5,0,0,0, 20 - 90 ,"12, 13, 28, 29",4,0,0,0,0,0,1,0
+Jakarta Timur,Ciracas,Rambutan,"003, 006",2,0,0,60, 30 - 80 ,"12, 13, 28, 29",4,0,0,0,0,30,1,0
+Jakarta Timur,Jatinegara,Bidara Cina,"005, 006, 007, 011, 012, 014",6,17,110,330, 50 - 80 ,"11, 26, 29",7,0,0,0,0,0,1,0
+Jakarta Timur,Jatinegara,Cipinang Muara,  013,1,0,197,780, 0 - 30 ,"12, 13",2,0,0,0,0,0,0,0
+Jakarta Timur,Jatinegara,Kampung Melayu,"001, 002, 003, 004, 005, 006, 007, 008",8,36,1672,6687, 60 - 120 ,"03, 11, 13, 29",7,0,0,0,0,0,1,0
+Jakarta Timur,Kramat Jati,Bale Kambang,  003,1,1,0,0, 30 - 40 ,29,1,0,0,0,0,0,1,0
+Jakarta Timur,Kramat Jati,Batu Ampar,  005,1,0,0,0, 0 - 30 ,"14, 15",2,0,0,0,0,0,0,0
+Jakarta Timur,Kramat Jati,Cawang,"001, 002, 003, 005, 008, 012",6,0,1469,6197, 10 - 120 ,"11, 12, 19, 29",7,0,0,0,0,0,1,0
+Jakarta Timur,Kramat Jati,Cililitan,"005, 006, 007",3,5,104,387, 150 - 200 ,29,1,0,0,0,0,0,1,0
+Jakarta Timur,Kramat Jati,Dukuh,"003, 004, 006",3,0,0,0, 20 - 40 ,"06, 07, 12, 13, 28, 29",6,0,0,0,0,0,1,0
+Jakarta Timur,Makasar,Cipinang Melayu,"003, 004",2,11,0,40, 40 - 100 ,"06, 07, 12, 13, 14, 15, 28 ",10,0,0,0,0,40,1,0
+Jakarta Timur,Makasar,Halim Perdana Kusuma,"005, 007, 008",3,5,800,3200, 20 - 50 ,"12, 13, 28, 29",4,0,0,0,0,0,1,0
+Jakarta Timur,Makasar,Kebon Pala,"004, 005, 006, 007, 008, 009",6,0,0,0, 30,29,1,0,0,0,0,0,1,0
+Jakarta Timur,Pasar Rebo,Baru,"001, 002, 006, 010",4,0,0,0, 20 - 50 ,13,2,0,0,0,0,0,0,0
+Jakarta Timur,Pasar Rebo,Cijantung,  005,1,1,5,15, 0 - 30 ,"12, 13",2,0,0,0,0,0,0,0
+Jakarta Timur,Pasar Rebo,Gedong,"002, 006",2,0,0,0, 0 - 50 ,"28, 29",2,0,0,0,0,0,1,0
+Jakarta Timur,Pasar Rebo,Kalisari,"003, 011",2,5,435,1305, 50 - 70 ,12,4,0,0,0,0,0,0,0
+Jakarta Timur,Pasar Rebo,Pekayon,"004, 007",2,7,0,0, 50 - 100 ,"12, 13, 23, 24",4,0,0,0,0,0,0,0
+Jakarta Timur,Pulogadung,Rawamangun,  007,1,0,0,0, 30 - 40 ,26,1,0,0,0,0,0,0,0
+Jakarta Utara,Cilincing,Kali Baru,  010,1,0,0,0, 5 - 10,"28, 29",2,0,0,0,0,0,1,0
+Jakarta Utara,Cilincing,Semper Barat,"003, 004, 007",3,0,0,0, 0 - 20 ,25,1,0,0,0,0,0,0,0
+Jakarta Utara,Cilincing,Semper Timur,"003, 010, 011",3,0,0,0, 10 - 25 ,"26, 27",2,0,0,0,0,0,0,0
+Jakarta Utara,Cilincing,Sukapura,  010,1,0,0,0, 10 - 20 ,"25, 26, 27, 28, 29",5,0,0,0,0,0,1,0
+Jakarta Utara,Kelapa Gading,Kelapa Gading Timur,"008, 009",2,0,0,0, 15 - 20 ,"26, 27",2,0,0,0,0,0,0,0
+Jakarta Utara,Koja,Tugu Selatan,  003,1,0,0,0, 20,"26, 27",2,0,0,0,0,0,0,0
+Jakarta Utara,Penjaringan,Kapuk Muara,  001,1,0,0,0, 20,26,1,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,

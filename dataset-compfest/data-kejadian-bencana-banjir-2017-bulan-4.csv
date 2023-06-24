@@ -1,0 +1,67 @@
+kota_administrasi,kecamatan,kelurahan,rw,jumlah_terdampak_rw,jumlah_terdampak_rt,jumlah_terdampak_kk,jumlah_terdampak_jiwa,ketinggian_air,tanggal_kejadian,lama_genangan,jumlah_meninggal,jumlah_hilang,jumlah_luka_berat,jumlah_luka_ringan,jumlah_pengungsi_tertinggi,jumlah_tempat_pengungsian,nilai_kerugian
+Jakarta Barat,CENGKARENG,RAWA BUAYA,"RW 01, 02, 04",3,0,0,0,20 - 25 cm,"11 - 12
+(2 Hari)",0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,KEDOYA SELATAN,RW 02,1,0,0,0,30 - 60 cm,"11 - 12
+(2 Hari)",0,0,0,0,0,0,0,0
+Jakarta Barat,KEMBANGAN,KEMBANGAN UTARA,RW 01,1,0,15,96,20 - 70 cm,"27
+(1 Hari)",0,0,0,0,20,0,0,0
+Jakarta Selatan,CILANDAK,CIPETE SELATAN,"RW 01, 03, 07",3,0,0,0,70 - 80 cm,"11 - 12
+(2 Hari)",0,0,0,0,475,0,0,0
+Jakarta Selatan,CILANDAK,PONDOK LABU,"RW 01, 03, 07, 010",4,0,0,0,80 - 100 cm,"3 - 5, 11 - 12
+(5 Hari)",0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN BARU,CIPETE UTARA,"RW 02, 06",2,0,0,0,50 - 60 cm,"11 - 12, 26
+(3 Hari)",0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN BARU,PETOGOGAN,"RW 01, 02, 03",3,0,0,0,70 cm,"10 - 12, 26 - 27
+(5 Hari)",0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN LAMA,CIPULIR,"RW 07, 010",2,0,0,0,20 - 50 cm,"4 - 5, 11 - 12
+(4 Hari)",0,0,0,0,0,0,0,0
+Jakarta Selatan,MAMPANG PRAPATAN,BANGKA,"RW 01, 02, 03, 04",4,0,0,0,30 - 60 cm,"11 - 12, 26
+(3 Hari)",0,0,0,0,0,0,0,0
+Jakarta Selatan,PANCORAN,RAWAJATI,RW 07,1,0,0,0,30 - 50 cm,"11, 14, 22 - 23
+(4 Hari)",0,0,0,0,0,0,0,0
+Jakarta Selatan,PASAR MINGGU,CILANDAK TIMUR,"RW 01, 03, 04",3,0,350,1200,30 - 100 cm,"11 - 12, 26
+(3 Hari)",0,0,0,0,16,1,0,0
+Jakarta Selatan,PASAR MINGGU,PEJATEN TIMUR,"RW 05, 06, 07, 08",4,0,10,0,60 cm,"14, 20
+(2 Hari)",0,0,0,0,30,1,0,0
+Jakarta Selatan,PASAR MINGGU,RAGUNAN,"RW 01, 03, 05, 08, 09",5,0,0,0,50 - 60 cm,"11 - 12
+(2 Hari)",0,0,0,0,0,0,0,0
+Jakarta Selatan,PESANGGRAHAN,ULUJAMI,RW 01,1,0,0,0,15 - 40 cm,"11 - 12
+(2 Hari)",0,0,0,0,0,0,0,0
+Jakarta Selatan,SETIA BUDI,KARET SEMANGGI,RW 04,1,0,0,0,30 - 60 cm,"11 - 12
+(2 Hari)",0,0,0,0,0,0,0,0
+Jakarta Selatan,TEBET,KEBON BARU,RW 010,1,0,0,0,20 cm,"14
+(1 Hari)",0,0,0,0,0,0,0,0
+Jakarta Selatan,TEBET,BUKIT DURI,RW 010,1,0,0,0,10 - 40 cm,"11
+(1 Hari)",0,0,0,0,0,0,0,0
+Jakarta Timur,CAKUNG,CAKUNG TIMUR,"RW 05, 09",2,0,0,0,30 - 45 cm,"1 - 2
+(2 Hari)",0,0,0,0,0,0,0,0
+Jakarta Timur,CAKUNG,PULO GEBANG,"RW 05, 06",2,0,0,0,40 - 60 cm,"1 - 2, 18 - 19
+(4 Hari)",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,CIBUBUR,"RW 02, 03, 010, 012",4,0,0,0,30 - 80 cm,"1 - 2, 19
+(3 Hari)",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,KELAPA DUA WETAN,RW 02,1,0,0,0,10 - 30 cm,"22 - 23
+(2 Hari)",0,0,0,0,0,0,0,0
+Jakarta Timur,CIRACAS,RAMBUTAN,"RW 02, 03, 05, 06",4,0,0,0,25 - 80 cm,"1 - 2
+(2 Hari)",0,0,0,0,0,0,0,0
+Jakarta Timur,DUREN SAWIT,PONDOK BAMBU,RW 04,1,0,0,0,10 - 30 cm,"11 - 12
+(2 Hari)",0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,BIDARA CINA,"RW 05, 07, 011",3,0,0,0,20 - 40 cm,"14, 20
+(2 Hari)",0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,CIPINANG MUARA,RW 013,1,0,0,0,30 - 40 cm,"1 - 2
+(2 Hari)",0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,"RW 04, 05, 07, 08",4,0,246,835,40 - 100 cm,"10 - 11, 14, 20, 22 - 23
+(6 Hari)",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,"RW 01, 02, 03, 05, 08",5,0,0,0,50 - 120 cm,"14, 20
+(2 Hari)",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CILILITAN,"RW 05, 06, 07",3,0,0,0,20 - 50 cm,"14, 20
+(2 Hari)",0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,CIPINANG MELAYU,"RW 03, 04",2,0,0,0,70 - 200 cm,"1 - 2, 11 - 13, 19 - 20, 22 - 23
+(9 Hari)",0,0,0,0,212,4,0,0
+Jakarta Timur,MAKASAR,KEBON PALA,"RW 09, 010",2,0,0,0,10 - 20 cm,"12 - 13
+(2 Hari)",0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,MAKASAR,RW 05,1,0,0,0,20 - 30 cm,"22 - 23
+(2 Hari)",0,0,0,0,0,0,0,0
+Jakarta Timur,PASAR REBO,KALISARI,RW 03,1,0,0,0,10 - 50 cm,"22 - 23
+(2 Hari)",0,0,0,0,0,0,0,0
+Jakarta Timur,PASAR REBO,PEKAYON,"RW 04, 07",2,0,0,0,50 - 80 cm,"1 - 2
+(2 Hari)",0,0,0,0,0,0,0,0

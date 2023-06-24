@@ -1,0 +1,44 @@
+kota_administrasi,kecamatan,kelurahan,rw,jumlah_terdampak_rw,jumlah_terdampak_rt,jumlah_terdampak_kk,jumlah_terdampak_jiwa,ketinggian_air,tanggal_kejadian,lama_genangan,jumlah_meninggal,jumlah_hilang,jumlah_luka_berat,jumlah_luka_ringan,jumlah_pengungsi_tertinggi,jumlah_tempat_pengungsian,nilai_kerugian
+Jakarta Pusat,CEMPAKA PUTIH,CEMPAKA PUTIH TIMUR,"05, 07, 08",3,7,0,0,10 s/d 35 cm,"tgl. 15, 16",0,0,0,0,0,0,0,0
+Jakarta Pusat,KEMAYORAN,SERDANG,"01, 07",2,6,0,0,10 s/d 50 cm,tgl. 15,0,0,0,0,0,0,0,0
+Jakarta Utara,PENJARINGAN,KAMAL MUARA,"01, 02, 04",3,5,0,0,5 s/d 10 cm,"tgl. 01, 15",0,0,0,0,0,0,0,0
+Jakarta Utara,PENJARINGAN,PENJARINGAN,"12, 17",2,3,0,0,10 s/d 35 cm,tgl. 15,0,0,0,0,0,0,0,0
+Jakarta Utara,PENJARINGAN,KAPUK MUARA,1,1,1,0,0,05 s/d 15 cm,tgl. 15,0,0,0,0,0,0,0,0
+Jakarta Utara,CILINCING,SUKAPURA,"01, 10",2,8,7,30,10 s/d 50 cm,"tgl. 15, 16",0,0,0,0,30,1,0,0
+Jakarta Utara,KELAPA GADING,PEGANGSAAN DUA,3,1,1,30,100,60 s/d 70 cm,"tgl. 15, 16",0,0,0,0,100,1,0,0
+Jakarta Utara,KOJA,TUGU SELATAN,4,1,2,38,140,40 cm,"tgl. 15, 16",0,0,0,0,140,1,0,0
+Jakarta Barat,KALIDERES,TEGAL ALUR,"01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16",16,143,0,0,20 s/d 30 cm,"tgl, 5, 15, 17",0,0,0,0,0,0,0,0
+Jakarta Barat,KALIDERES,KAMAL,"01, 02, 03, 04, 05, 06, 07, 08, 09",9,2,0,0,30 s/d 50 cm,tgl. 15,0,0,0,0,0,0,0,0
+Jakarta Barat,CENGKARENG,KAPUK,"01, 02, 03, 04, 05, 06, 07, 09, 10, 11, 12, 13, 15, 16",14,47,0,0,5 s/d 60 cm,"tgl. 15, 16",0,0,0,0,0,0,0,0
+Jakarta Barat,CENGKARENG,RAWA BUAYA,"01, 02, 05, 11",4,15,0,0,5 s/d 30 cm,tgl. 15,0,0,0,0,0,0,0,0
+Jakarta Barat,CENGKARENG,DURI KOSAMBI,4,1,1,0,0,10 s/d 50 cm,"tgl. 15, 16",0,0,0,0,0,0,0,0
+Jakarta Barat,CENGKARENG,CENGKARENG BARAT,"04, 06, 09, 10, 11, 16",6,13,0,0,10 s/d 80 cm,"tgl. 15, 16",0,0,0,0,0,0,0,0
+Jakarta Barat,CENGKARENG,CENGKARENG TIMUR,"03, 12, 13, 14, 16",5,39,0,0,10 s/d 80 cm,"tgl. 15, 16",0,0,0,0,0,0,0,0
+Jakarta Barat,KEMBANGAN,KEMBANGAN UTARA,"04, 10",2,3,0,0,15 s/d 30 cm,tgl. 15,0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,DURI KEPA,"01, 02, 03, 04, 10",5,4,0,0,15 s/d 60 cm,tgl. 15,0,0,0,0,0,0,0,0
+Jakarta Barat,GROGOL PETAMBURAN,WIJAYA KUSUMA,"03, 16",2,2,0,0,10 s/d 50 cm,"tgl. 15, 16",0,0,0,0,0,0,0,0
+Jakarta Barat,GROGOL PETAMBURAN,JELAMBAR BARU,1,1,0,0,0,10 s/d 30 cm,"tgl. 15, 16",0,0,0,0,0,0,0,0
+Jakarta Barat,PALMERAH,JATI PULO,5,1,3,0,0,30 s/d 50 cm,"tgl. 15, 16",0,0,0,0,0,0,0,0
+Jakarta Selatan,CILANDAK,PONDOK LABU,3,1,1,98,480,40 s/d 50 cm,"tgl. 05, 06",0,0,0,0,0,0,0,0
+Jakarta Selatan,PANCORAN,PANGADEGAN,"01, 02",2,6,600,2993,10 s/d 300 cm,"tgl. 05, 06, 07, 08, 09",0,0,1,0,3200,7,0,0
+Jakarta Selatan,PANCORAN,RAWA JATI,"01, 03, 07",3,8,464,1509,10 s/d 250 cm,"tgl. 05, 06, 07",0,0,0,0,2008,8,0,0
+Jakarta Selatan,PASAR MINGGU,PEJATEN TIMUR,"05, 06, 07, 08",4,10,324,962,30 s/d 200 cm,"tgl. 05, 06, 07, 25, 26",0,0,0,0,1811,6,0,0
+Jakarta Selatan,TEBET,KEBON BARU,10,1,1,0,0,20 s/d 80 cm,"tgl. 05, 06, 07",0,0,0,0,1278,1,0,0
+Jakarta Selatan,TEBET,MANGGARAI,"01, 04",2,5,540,2347,30 s/d 200 cm,"tgl. 05, 06, 07",0,0,0,0,2119,3,0,0
+Jakarta Selatan,TEBET,BUKIT DURI,"10, 11",2,12,0,0,10 s/d 40 cm,tgl. 06,0,0,0,0,0,0,0,0
+Jakarta Selatan,JAGAKARSA,LENTENG AGUNG,"02, 03, 04, 06, 07",5,0,0,0,50 s/d 200 cm,tgl. 05,0,0,0,0,0,0,0,0
+Jakarta Selatan,JAGAKARSA,SRENGSENG SAWAH,"01, 02, 05, 06, 07, 08, 12",7,12,113,265,100 s/d 300 cm,"tgl. 05, 06",0,0,0,0,0,0,0,0
+Jakarta Selatan,MAMPANG PRAPATAN,BANGKA,2,1,1,0,0,30 s/d 40 cm,"tgl. 05, 06",0,0,0,0,0,0,0,0
+Jakarta Timur,CAKUNG,RAWA TERATE,"04, 05",2,3,0,0,10 s/d 120 cm,"tgl. 03, 05, 06,15, 16, 17",0,0,0,0,0,0,0,0
+Jakarta Timur,CAKUNG,CAKUNG BARAT,"03, 07, 08",3,10,18,56,30 s/d 70 cm,"tgl. 15, 16",1,0,0,0,46,1,0,0
+Jakarta Timur,CAKUNG,JATINEGARA,"01, 02, 03, 05, 06, 07, 08, 11, 14",9,14,0,0,10 s/d 30 cm,tgl. 15,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,"01, 02, 04, 05, 06, 07, 08",8,55,983,3074,10 s/d 220 cm,"tgl. 03, 05, 06, 07, 08, 13, 26",0,0,0,0,1392,10,0,0
+Jakarta Timur,JATINEGARA,BIDARA CINA,"03, 05, 06, 07, 11, 12, 14, 15, 16",9,32,876,2642,10 s/d 250 cm,"tgl. 05, 06, 07, 08, 09, 26",0,0,0,0,553,8,0,0
+Jakarta Timur,JATINEGARA,CIPINANG MUARA,13,1,3,0,0,10 s/d 120 cm,"tgl. 05, 06",0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,CIPINANG MELAYU,"03, 04, 05",3,13,0,0,20 s/d 90 cm,tgl. 05,0,0,0,0,0,0,0,0
+Jakarta Timur,MAKASAR,MAKASAR,4,1,2,0,0,20 s/d 50 cm,"tgl. 05, 06",0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,"01, 02, 03, 05, 08, 12",6,27,1066,3584,20 s/d 270 cm,"tgl. 05, 06, 07, 26",0,0,0,0,557,4,0,0
+Jakarta Timur,KRAMAT JATI,CILILITAN,"05, 06, 07, 15, 16",5,10,251,806,30 s/d 250 cm,"tgl. 05, 06, 07",0,0,0,0,350,3,0,0
+Jakarta Timur,KRAMAT JATI,BALE KAMBANG,"01, 02, 05",3,9,18,54,60 s/d 300 cm,"tgl. 05, 06, 07, 08, 09, 10",0,0,0,0,1560,4,0,0
+Jakarta Timur,PASAR REBO,GEDONG,3,1,1,0,0,50 s/d 150 cm,"tgl. 05, 06",0,0,0,0,0,0,0,0
+Jakarta Timur,MATRAMAN,KEBON MANGGIS,"03, 04",2,8,41,414,20 s/d 80 cm,"tgl. 06, 07",0,0,0,0,414,2,0,0

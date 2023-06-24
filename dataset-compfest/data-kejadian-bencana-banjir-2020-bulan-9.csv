@@ -1,0 +1,29 @@
+kota_administrasi,kecamatan,kelurahan,rw,jumlah_terdampak_rw,jumlah_terdampak_rt,jumlah_terdampak_kk,jumlah_terdampak_jiwa,ketinggian_air,tanggal_kejadian,lama_genangan,jumlah_meninggal,jumlah_hilang,jumlah_luka_berat,jumlah_luka_ringan,jumlah_pengungsi_tertinggi,jumlah_tempat_pengungsian,nilai_kerugian
+Jakarta Pusat,TANAH ABANG,PETAMBURAN,RW 08,1,1,0,0,20 cm,"tgl. 21, 22 September",0,0,0,0,0,0,0,0
+Jakarta Utara,PENJARINGAN,PLUIT,"RW 01, 02",2,2,0,0,20 s.d. 50 cm,tgl. 22 September,0,0,0,0,0,0,0,0
+Jakarta Barat,KALIDERES,KALIDERES,RW 07,1,1,0,0,10 cm,tgl. 15 September,0,0,0,0,0,0,0,0
+Jakarta Barat,CENGKARENG,KAPUK,"RW 02, 03, 05, 06, 010, 012, 015, 016",8,10,0,0,5 s.d. 25 cm,"tgl. 15, 22, 23 September",0,0,0,0,0,0,0,0
+Jakarta Barat,CENGKARENG,RAWA BUAYA,"RW 01, 02, 04",3,4,0,0,20 s.d. 30 cm,"tgl. 21, 22, 23 September",0,0,0,0,0,0,0,0
+Jakarta Barat,CENGKARENG,CENGKARENG BARAT,"RW 06, 07, 09, 010, 014",5,6,0,0,15 s.d. 30 cm,tgl. 22 September,0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,KEDOYA SELATAN,RW 05,1,1,0,0,35 cm,tgl. 16 September,0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,SUKABUMI UTARA,"RW 01, 02, 03, 05, 07, 08, 011",7,7,0,0,30 s.d. 80 cm,"tgl. 21, 22 September",0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,DURI KEPA,"RW 04, 05, 09, 014",4,6,0,0,15 s.d. 20 cm,"tgl. 21, 22 September",0,0,0,0,0,0,0,0
+Jakarta Barat,KEBON JERUK,SUKABUMI SELATAN,"RW 01, 02",2,3,0,0,120 s.d. 130 cm,tgl. 22 September,0,0,0,0,0,0,0,0
+Jakarta Barat,PALMERAH,PALMERAH,RW 03,1,1,0,0,30 cm,"tgl. 21, 22 September",0,0,0,0,0,0,0,0
+Jakarta Barat,KEMBANGAN,KEMBANGAN UTARA,RW 04,1,1,5,15,60 cm,"tgl. 21, 22 September",0,0,0,0,15,1,0,0
+Jakarta Barat,KEMBANGAN,KEMBANGAN SELATAN,RW 01,1,1,0,0,45 cm,"tgl. 21, 22 September",0,0,0,0,0,0,0,0
+Jakarta Barat,GROGOL PETAMBURAN,TANJUNG DUREN UTARA,RW 04,1,1,0,0,20 cm,"tgl. 21, 22 September",0,0,0,0,0,0,0,0
+Jakarta Barat,GROGOL PETAMBURAN,JELAMBAR,RW 04,1,5,0,0,25 cm,tgl. 22 September,0,0,0,0,0,0,0,0
+Jakarta Barat,TAMBORA,KRENDANG,RW 02,1,2,0,0,30 cm,tgl. 22 September,0,0,0,0,0,0,0,0
+Jakarta Selatan,PASAR MINGGU,CILANDAK TIMUR,RW 03,1,2,0,0,100 cm,tgl. 15 September,0,0,0,0,0,0,0,0
+Jakarta Selatan,PASAR MINGGU,PEJATEN TIMUR,"RW 05, 07, 08",3,4,0,0,30 cm,tgl. 22 September,0,0,0,0,0,0,0,0
+Jakarta Selatan,CILANDAK,PONDOK LABU,RW 01,1,1,0,0,10 s.d. 20 cm,"tgl. 15, 16 September",0,0,0,0,0,0,0,0
+Jakarta Selatan,KEBAYORAN BARU,PETOGOGAN,RW 03,1,2,0,0,25 s.d. 50 cm,tgl. 15 September,0,0,0,0,0,0,0,0
+Jakarta Selatan,PANCORAN,PENGADEGAN,RW 01,1,1,6,23,40 cm,tgl. 22 September,0,0,0,0,23,1,0,0
+Jakarta Selatan,PANCORAN,RAWAJATI,"RW 03, 07",2,5,19,66,20 s.d. 40 cm,tgl. 22 September,0,0,0,0,66,3,0,0
+Jakarta Selatan,TEBET,KEBON BARU,RW 010,1,1,0,0,30 cm,tgl. 22 September,0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CAWANG,"RW 01, 02, 03, 05, 08",5,13,37,110,10 s.d. 100 cm,tgl. 22 September,0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,CILILITAN,"RW 06, 07",2,5,58,158,10 s.d. 50 cm,tgl. 22 September,0,0,0,0,0,0,0,0
+Jakarta Timur,KRAMAT JATI,BALEKAMBANG,"RW 02, 05",2,2,0,0,10 s.d. 30 cm,tgl. 22 September,0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,BIDARA CINA,"RW 07, 011",2,6,41,121,10 s.d. 70 cm,"tgl. 22, 28 September",0,0,0,0,0,0,0,0
+Jakarta Timur,JATINEGARA,KAMPUNG MELAYU,"RW 04, 05, 07, 08",4,18,248,807,10 s.d. 75 cm,tgl. 22 September,0,0,0,0,0,0,0,0
