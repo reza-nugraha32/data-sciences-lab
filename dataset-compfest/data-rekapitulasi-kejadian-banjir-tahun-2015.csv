@@ -1,4 +1,4 @@
-bulan,kecamatan,kelurahan,rata_rata_ketinggian_air,lama_genangan,rw_terdampak,kk_terdampak,jiwa_terdampak,korban_meninggal,korban_hilang,korban_luka_berat,korban_luka_ringan,jumlah_jiwa_pengungsi_tertinggi,jumlah_tempat_pengungsian,jumlah_nilai_kerugian
+bulan,kecamatan,kelurahan,rata_rata_ketinggian_air,lama_genangan,rw_terdampak,kk_terdampak,jiwa_terdampak,korban_meninggal,korban_hilang,korban_luka_berat,korban_luka_ringan,jumlah_pengungsi,jumlah_tempat_pengungsian,jumlah_nilai_kerugian
 01,15,36,10-150,2,221,6095,13073,0,0,0,0,3255,59,0
 02,38,133,10-200,7,615,64458,231566,5,0,0,0,41202,337,0
 03,12,15,10-200,4,30,2869,8119,0,0,0,0,822,5,0
