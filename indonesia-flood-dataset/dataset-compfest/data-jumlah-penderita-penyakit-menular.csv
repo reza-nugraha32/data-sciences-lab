@@ -1,0 +1,217 @@
+tahun,wilayah,nama_penyakit,jumlah_penderita
+2015,Kepulauan Seribu,Malaria,0
+2015,Jakarta Selatan,Malaria,6
+2015,Jakarta Timur,Malaria,2
+2015,Jakarta Pusat,Malaria,4
+2015,Jakarta Barat,Malaria,5
+2015,Jakarta Utara,Malaria,3
+2015,Kepulauan Seribu,Gastro Entritis,0
+2015,Jakarta Selatan,Gastro Entritis,0
+2015,Jakarta Timur,Gastro Entritis,0
+2015,Jakarta Pusat,Gastro Entritis,0
+2015,Jakarta Barat,Gastro Entritis,0
+2015,Jakarta Utara,Gastro Entritis,0
+2015,Kepulauan Seribu,Kolera,0
+2015,Jakarta Selatan,Kolera,0
+2015,Jakarta Timur,Kolera,0
+2015,Jakarta Pusat,Kolera,0
+2015,Jakarta Barat,Kolera,0
+2015,Jakarta Utara,Kolera,0
+2015,Kepulauan Seribu,Kusta,3
+2015,Jakarta Selatan,Kusta,69
+2015,Jakarta Timur,Kusta,81
+2015,Jakarta Pusat,Kusta,12
+2015,Jakarta Barat,Kusta,89
+2015,Jakarta Utara,Kusta,63
+2015,Kepulauan Seribu,TBC,10
+2015,Jakarta Selatan,TBC,3874
+2015,Jakarta Timur,TBC,7442
+2015,Jakarta Pusat,TBC,4168
+2015,Jakarta Barat,TBC,5028
+2015,Jakarta Utara,TBC,2608
+2015,Kepulauan Seribu,DBD,10
+2015,Jakarta Selatan,DBD,1140
+2015,Jakarta Timur,DBD,1226
+2015,Jakarta Pusat,DBD,405
+2015,Jakarta Barat,DBD,1283
+2015,Jakarta Utara,DBD,968
+2016,Kepulauan Seribu,Malaria,0
+2016,Jakarta Selatan,Malaria,5
+2016,Jakarta Timur,Malaria,17
+2016,Jakarta Pusat,Malaria,5
+2016,Jakarta Barat,Malaria,13
+2016,Jakarta Utara,Malaria,8
+2016,Kepulauan Seribu,Gastro Entritis,0
+2016,Jakarta Selatan,Gastro Entritis,0
+2016,Jakarta Timur,Gastro Entritis,0
+2016,Jakarta Pusat,Gastro Entritis,0
+2016,Jakarta Barat,Gastro Entritis,0
+2016,Jakarta Utara,Gastro Entritis,0
+2016,Kepulauan Seribu,Kolera,0
+2016,Jakarta Selatan,Kolera,0
+2016,Jakarta Timur,Kolera,0
+2016,Jakarta Pusat,Kolera,0
+2016,Jakarta Barat,Kolera,0
+2016,Jakarta Utara,Kolera,0
+2016,Kepulauan Seribu,Kusta,1
+2016,Jakarta Selatan,Kusta,70
+2016,Jakarta Timur,Kusta,79
+2016,Jakarta Pusat,Kusta,16
+2016,Jakarta Barat,Kusta,98
+2016,Jakarta Utara,Kusta,46
+2016,Kepulauan Seribu,TBC,41
+2016,Jakarta Selatan,TBC,5255
+2016,Jakarta Timur,TBC,8897
+2016,Jakarta Pusat,TBC,4369
+2016,Jakarta Barat,TBC,5610
+2016,Jakarta Utara,TBC,4224
+2016,Kepulauan Seribu,DBD,10
+2016,Jakarta Selatan,DBD,4378
+2016,Jakarta Timur,DBD,6438
+2016,Jakarta Pusat,DBD,1222
+2016,Jakarta Barat,DBD,5563
+2016,Jakarta Utara,DBD,2821
+2017,Kepulauan Seribu,Malaria,0
+2017,Jakarta Selatan,Malaria,12
+2017,Jakarta Timur,Malaria,25
+2017,Jakarta Pusat,Malaria,8
+2017,Jakarta Barat,Malaria,10
+2017,Jakarta Utara,Malaria,7
+2017,Kepulauan Seribu,Gastro Entritis,19
+2017,Jakarta Selatan,Gastro Entritis,5230
+2017,Jakarta Timur,Gastro Entritis,10040
+2017,Jakarta Pusat,Gastro Entritis,3103
+2017,Jakarta Barat,Gastro Entritis,6048
+2017,Jakarta Utara,Gastro Entritis,4388
+2017,Kepulauan Seribu,Kolera,0
+2017,Jakarta Selatan,Kolera,0
+2017,Jakarta Timur,Kolera,0
+2017,Jakarta Pusat,Kolera,0
+2017,Jakarta Barat,Kolera,0
+2017,Jakarta Utara,Kolera,0
+2017,Kepulauan Seribu,Kusta,6
+2017,Jakarta Selatan,Kusta,35
+2017,Jakarta Timur,Kusta,92
+2017,Jakarta Pusat,Kusta,16
+2017,Jakarta Barat,Kusta,85
+2017,Jakarta Utara,Kusta,66
+2017,Kepulauan Seribu,TBC,69
+2017,Jakarta Selatan,TBC,6984
+2017,Jakarta Timur,TBC,13167
+2017,Jakarta Pusat,TBC,5328
+2017,Jakarta Barat,TBC,7883
+2017,Jakarta Utara,TBC,5029
+2017,Kepulauan Seribu,DBD,1
+2017,Jakarta Selatan,DBD,627
+2017,Jakarta Timur,DBD,1265
+2017,Jakarta Pusat,DBD,129
+2017,Jakarta Barat,DBD,822
+2017,Jakarta Utara,DBD,518
+2018,Kepulauan Seribu,Malaria,0
+2018,Jakarta Selatan,Malaria,10
+2018,Jakarta Timur,Malaria,28
+2018,Jakarta Pusat,Malaria,7
+2018,Jakarta Barat,Malaria,10
+2018,Jakarta Utara,Malaria,8
+2018,Kepulauan Seribu,Gastro Entritis,16
+2018,Jakarta Selatan,Gastro Entritis,5814
+2018,Jakarta Timur,Gastro Entritis,11370
+2018,Jakarta Pusat,Gastro Entritis,3542
+2018,Jakarta Barat,Gastro Entritis,7502
+2018,Jakarta Utara,Gastro Entritis,5549
+2018,Kepulauan Seribu,Kolera,0
+2018,Jakarta Selatan,Kolera,0
+2018,Jakarta Timur,Kolera,0
+2018,Jakarta Pusat,Kolera,0
+2018,Jakarta Barat,Kolera,0
+2018,Jakarta Utara,Kolera,0
+2018,Kepulauan Seribu,Kusta,6
+2018,Jakarta Selatan,Kusta,42
+2018,Jakarta Timur,Kusta,131
+2018,Jakarta Pusat,Kusta,25
+2018,Jakarta Barat,Kusta,99
+2018,Jakarta Utara,Kusta,69
+2018,Kepulauan Seribu,TBC,53
+2018,Jakarta Selatan,TBC,6124
+2018,Jakarta Timur,TBC,11401
+2018,Jakarta Pusat,TBC,5918
+2018,Jakarta Barat,TBC,8285
+2018,Jakarta Utara,TBC,5208
+2018,Kepulauan Seribu,DBD,8
+2018,Jakarta Selatan,DBD,626
+2018,Jakarta Timur,DBD,797
+2018,Jakarta Pusat,DBD,112
+2018,Jakarta Barat,DBD,851
+2018,Jakarta Utara,DBD,260
+2019,Kepulauan Seribu,Malaria,0
+2019,Jakarta Selatan,Malaria,10
+2019,Jakarta Timur,Malaria,32
+2019,Jakarta Pusat,Malaria,3
+2019,Jakarta Barat,Malaria,8
+2019,Jakarta Utara,Malaria,5
+2019,Kepulauan Seribu,Gastro Entritis,16
+2019,Jakarta Selatan,Gastro Entritis,5973
+2019,Jakarta Timur,Gastro Entritis,10164
+2019,Jakarta Pusat,Gastro Entritis,4221
+2019,Jakarta Barat,Gastro Entritis,7599
+2019,Jakarta Utara,Gastro Entritis,5581
+2019,Kepulauan Seribu,Kolera,0
+2019,Jakarta Selatan,Kolera,0
+2019,Jakarta Timur,Kolera,0
+2019,Jakarta Pusat,Kolera,0
+2019,Jakarta Barat,Kolera,0
+2019,Jakarta Utara,Kolera,0
+2019,Kepulauan Seribu,Kusta,3
+2019,Jakarta Selatan,Kusta,107
+2019,Jakarta Timur,Kusta,107
+2019,Jakarta Pusat,Kusta,197
+2019,Jakarta Barat,Kusta,75
+2019,Jakarta Utara,Kusta,87
+2019,Kepulauan Seribu,TBC,71
+2019,Jakarta Selatan,TBC,7859
+2019,Jakarta Timur,TBC,12334
+2019,Jakarta Pusat,TBC,6428
+2019,Jakarta Barat,TBC,7563
+2019,Jakarta Utara,TBC,5215
+2019,Kepulauan Seribu,DBD,6
+2019,Jakarta Selatan,DBD,1976
+2019,Jakarta Timur,DBD,3004
+2019,Jakarta Pusat,DBD,492
+2019,Jakarta Barat,DBD,2305
+2019,Jakarta Utara,DBD,922
+2020,Kepulauan Seribu,Malaria,0
+2020,Jakarta Selatan,Malaria,6
+2020,Jakarta Timur,Malaria,41
+2020,Jakarta Pusat,Malaria,8
+2020,Jakarta Barat,Malaria,4
+2020,Jakarta Utara,Malaria,1
+2020,Kepulauan Seribu,Gastro Entritis,5
+2020,Jakarta Selatan,Gastro Entritis,2313
+2020,Jakarta Timur,Gastro Entritis,3768
+2020,Jakarta Pusat,Gastro Entritis,1601
+2020,Jakarta Barat,Gastro Entritis,4056
+2020,Jakarta Utara,Gastro Entritis,3129
+2020,Kepulauan Seribu,Kolera,0
+2020,Jakarta Selatan,Kolera,53
+2020,Jakarta Timur,Kolera,15
+2020,Jakarta Pusat,Kolera,0
+2020,Jakarta Barat,Kolera,89
+2020,Jakarta Utara,Kolera,5
+2020,Kepulauan Seribu,Kusta,0
+2020,Jakarta Selatan,Kusta,87
+2020,Jakarta Timur,Kusta,75
+2020,Jakarta Pusat,Kusta,89
+2020,Jakarta Barat,Kusta,43
+2020,Jakarta Utara,Kusta,27
+2020,Kepulauan Seribu,TBC,29
+2020,Jakarta Selatan,TBC,4462
+2020,Jakarta Timur,TBC,6670
+2020,Jakarta Pusat,TBC,4207
+2020,Jakarta Barat,TBC,4126
+2020,Jakarta Utara,TBC,2662
+2020,Kepulauan Seribu,DBD,5
+2020,Jakarta Selatan,DBD,1020
+2020,Jakarta Timur,DBD,1544
+2020,Jakarta Pusat,DBD,367
+2020,Jakarta Barat,DBD,1266
+2020,Jakarta Utara,DBD,542
